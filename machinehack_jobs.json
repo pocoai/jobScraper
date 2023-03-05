@@ -1,5 +1,104 @@
 [
     {
+        "title": "Data Scientist",
+        "type": "Permanent",
+        "location": [
+            "Hyderabad"
+        ],
+        "salary_start": 0,
+        "salary_end": 0,
+        "apply_link": "https://machinehack.com/jobs/?currentJobId=6401a139a1caa8232b056e12",
+        "description": "<p>5 - 9 yrs of analytics experience<br>Customer Segmentation (Traditional ML techniques which are marketing facing)<br>Has worked in a Core Analytics/Renowned Product companies - Preferred<br>Python and SQL must have<br>EDA must have</p>",
+        "tags": [
+            "Data Science",
+            "EDA",
+            "SQL",
+            "Python",
+            "Analytics"
+        ]
+    },
+    {
+        "title": "Power Bi Developer",
+        "type": "Permanent",
+        "location": [
+            "Bangalore Urban"
+        ],
+        "salary_start": 0,
+        "salary_end": 0,
+        "apply_link": "https://machinehack.com/jobs/?currentJobId=64019e26a1caa80b7e056be5",
+        "description": "<p>Technical Expertise -<br><br>\uf0b7 Having 2+ years of hands-on experience in Business Intelligence &amp; Data<br>visualization tools such as Power BI, SQL Server, and Excel<br>\uf0b7 2 to 3 years of extensive experience working on Power BI<br>dashboards<br>\uf0b7 Proficient in designing interactive reports and dashboards using Power<br>BI Desktop &amp; publishing reports<br>\uf0b7 Extensively used transformations like adding a column, split column, pivot<br>column, un-pivot column, changing data type, Merge queries and<br>Append queries.<br>\uf0b7 Good Knowledge in doing Data Modeling in Power Pivot Model.<br>\uf0b7 Familiarity with writing the DAX queries in Power BI, creating calculated<br>measures, computed columns, and tables using DAX.<br>\uf0b7 Good knowledge of different Categories of DAX functions like Time<br>Intelligence Functions, Filter Functions, Date Functions, Logical<br>Functions, Text Functions, Number and Statistical Functions for<br>creating new information.<br>\uf0b7 Good at creating native visualizations (table, matrix, KPI, gauge,<br>various types of charts, and maps) and custom visualizations (Multi<br>Slicer and Hierarchy Slicer, Histograms, Shape maps, Dual KPI,<br>Bullet Chart, Heat Maps.<br>\uf0b7 Having good experience in creating Parameters, Hierarchies, sorting,<br>grouping, binning, and Drilldown Reports.<br>\uf0b7 Good exposure to Tabular Data Model, SSRS, and SSIS<br>\uf0b7 Good knowledge of Power BI Service for creating APP Workspaces<br>and adding the Members to APP Workspace to Manage the Content.<br>\uf0b7 Worked on On-Premise Data Gateway to Refresh and Schedule<br>Refresh the Data in the Dataset.<br>\uf0b7 Good experience in publishing Reports and Dashboards to Power BI<br>Service along the outputs with applying row-level security.<br>\uf0b7 Can guide team members to write SQL Queries as part of testing the Data<br><br>\uf0b7 Good knowledge of Data warehouse concepts like Star schema, snow-<br>flake schemas etc.<br><br>\uf0b7 Can guide the Power BI developer to create a sample POC for internal<br><br>client and business teams<br>&nbsp;</p>",
+        "tags": [
+            "Power BI",
+            "SQL"
+        ]
+    },
+    {
+        "title": "Data Analyst",
+        "type": "Permanent",
+        "location": [
+            "Bangalore Urban"
+        ],
+        "salary_start": 0,
+        "salary_end": 0,
+        "apply_link": "https://machinehack.com/jobs/?currentJobId=63f8927d3d62afe9f8a2cec0",
+        "description": "<p>Data Analyst (Exp 5-8 years)&nbsp;</p><p>&nbsp;</p><p>Job Description&nbsp;</p><p>&nbsp;</p><p>We are looking for a Data Analyst who will be working on designing various reports and Analysis on company data and delivering them to top management and other interested parties. As a Data Analyst, you will be working with business users, collecting their requests, and then generating insights and finding and present then using suitable tools (Power BI, PPT, excel etc.) You will also be interacting with data engineers whenever data schemas need redesigning to accommodate new reporting requirements.&nbsp;</p><p>Responsibilities&nbsp;</p><p>\uf0b7 Strong problem-solving ability \u2013 Candidate needs to exhibit structured thinking, strong Analytical Skills and Process Orientation&nbsp;</p><p>\uf0b7 Strong in Data analytics \u2013 Candidate should be excellent in SQL and should have basic understanding of R/Python. Should be highly proficient in Excel \uf0b7 Knowledge of visualization tools like Power BI, Tableau is preferred&nbsp;</p><p>\uf0b7 A data analyst will need to own projects from conceptualization to execution</p><p>\uf0b7 Understand and analyze data to drive business insights&nbsp;</p><p>\uf0b7 Data visualization for easy consumption of data with senior management&nbsp;</p><p>\uf0b7 Strong process orientation and ability to learn quickly&nbsp;</p><p>\uf0b7 Drive change in tech/process backed by data&nbsp;</p><p>\uf0b7 Monitoring and providing feedback loop during execution of various initiatives&nbsp;</p><p>\uf0b7 SQL experience 4+ years&nbsp;</p><p>&nbsp;</p><p>Hands on Experience Required:&nbsp;</p><p>&nbsp;</p><p>Tools/Languages : -&nbsp;</p><p>Must-have \u2022 SQL \u2013 Expert Level \u2022 Advance Excel - Expert \u2022 Power BI \u2013 Expert/Intermediate \u2022 Databricks \u2013 Beginner/Intermediate \u2022 JIRA \u2013 Beginner/Intermediate&nbsp;</p><p>&nbsp;</p><p>Good to have: \u2022 Pyspark \u2022 Python \u2022 Experience in Retail/ecommerce</p>",
+        "tags": [
+            "Data Analytics",
+            "SQL",
+            "Microsoft Power BI",
+            "Excel"
+        ]
+    },
+    {
+        "title": "Business Intelligence (BI) Lead",
+        "type": "Permanent",
+        "location": [
+            "Bangalore Urban"
+        ],
+        "salary_start": 0,
+        "salary_end": 0,
+        "apply_link": "https://machinehack.com/jobs/?currentJobId=63f4c08e569aec771e7dc5fa",
+        "description": "<p>Job Description - &nbsp; &nbsp;</p><p>We are looking for a business intelligence (BI) lead who will be working on designing various &nbsp;analytical reports on company data and delivering them to top management and other interested &nbsp;parties. As a BI lead, you will be working with business users, collecting their requests, and then &nbsp;creating BI reports to accommodate business needs. You will be expected to establish company &nbsp;standards and common reporting terminology, and to help align existing and future reporting &nbsp;requests to such standards. You will also be interacting with data engineers whenever data schemas &nbsp;need redesigning to accommodate new reporting requirements. &nbsp; &nbsp;</p><p>&nbsp;</p><p>Responsibilities - &nbsp; &nbsp;&nbsp;</p><p>\u2022 Collect and maintain the set of business reporting requirements. &nbsp;</p><p>\u2022 Implement BI reports based on the above requirements. &nbsp;</p><p>\u2022 Analyze existing reports and optimize them for standardization across the company. &nbsp;</p><p>\u2022 Set up and maintain BI tools, infrastructure, and integration with company data sources. &nbsp;</p><p>\u2022 Work with data engineers, data scientists, and data collection application engineers. Propose &nbsp;data schema and data flow optimization for reporting performance and enhancement as &nbsp;needed. &nbsp; &nbsp;</p><p>&nbsp;</p><p>Skills &nbsp;</p><p>\u2022 Adept at the use of BI reporting tools such as Power BI, Apache Superset. &nbsp;</p><p>\u2022 Additional exposure to other BI reporting tools such as Grafana, Tableau would be helpful. &nbsp;</p><p>\u2022 Adept at using automation tools in BI reporting for alerts, emails and scheduled jobs for &nbsp;dataset refreshes. &nbsp;</p><p>\u2022 Strong understanding of DAX queries for creating business metrics &nbsp;</p><p>\u2022 Understanding data modeling, data schemas (normalized, flat, star, snowflake, etc.). &nbsp;</p><p>\u2022 Expertise in SQL and ability to make complex queries and troubleshoot &nbsp;</p><p>\u2022 Skilled in data and query optimization, query profiling, and query performance monitoring &nbsp;tools and techniques. &nbsp;</p><p>\u2022 Understanding database operations and optimization for database such as Microsoft SQL &nbsp;Server, PostgreSQL, NoSQL, Timeseries database. &nbsp;</p><p>\u2022 Good analytical mindset and teamwork spirit. &nbsp;</p><p>\u2022 Excellent verbal and written communicatio</p>",
+        "tags": [
+            "BI",
+            "Microsoft Power BI",
+            "DAX",
+            "SQL"
+        ]
+    },
+    {
+        "title": "Data Scientist",
+        "type": "Permanent",
+        "location": [
+            "Bangalore Urban"
+        ],
+        "salary_start": 0,
+        "salary_end": 0,
+        "apply_link": "https://machinehack.com/jobs/?currentJobId=63f2fb0f5e76273ffea246a1",
+        "description": "<p>Credit Risk Model Developer</p><p>&nbsp;</p><p><strong>Experience: 3-5Y Responsibilities:</strong></p><p>&nbsp;</p><p>\u2022 Build, validate, document, implement and rebuild:<br>o Credit risk models (retail loan origination models, business banking customer rating</p><p>models, and loan behaviour scorecards)<br>o Collective Provision and Expected Loss methodologies. This includes all inputs of</p><p>Probability of Default, Loss Given Default and Exposure at Default (methodology). \u2022 Conduct detailed analytical work with a high level of accuracy in order to deliver high level</p><p>results to senior management and contribute to the management and education of enhanced credit risk approaches.</p><p>o Develop ongoing improvements to the model reporting.</p><p>o Responsible for managing issues through to resolution.</p><p>Define and specify key data requirements to support modelling approaches.</p><p>Document model \u201ctechnical manual\u201d, modelling choices made, and model methodology</p><p>considerations.</p><p>Engage with operational risk advisory, quantitative analyst, reporting and regulatory</p><p>specialist stakeholders.</p><p>Assist in the development of other Credit Risk Modelling team members.</p><p>Working with credit risk Model Development Leaders to:</p><p>o Proactively engage with stakeholders to understand business context, add value, propose solutions, project manage pieces of work through to completion.</p><p>o Balance prioritization effectively between across a wide stakeholder group. Ensure time spent matches the importance of the work and manage situations / competing priorities so that the most beneficial program of work is achieved.</p><p>\u2022 Working with the leaders of the Credit Risk Modelling team to ensure:<br>o Models are effectively embedded into operational activities<br>o The program of work for the department is documented and resourcing or delivery</p><p>issues are well managed.</p><p>Prepare and review analysis papers and ensure that high quality analytical papers are</p><p>written and delivered to appropriate senior management and committees. Present these</p><p>papers in an effective manner appropriate to the audience.</p><p>Analyse and constructively critique output across the wider Banking Credit function for the</p><p>business impacts (including regulatory and external audit) to ensure committee papers consider portfolio, modelling and data risks, and ultimately propose strategic recommendations that are underpinned by a compelling case.</p><p>Identifying inefficiencies and proposing operational process improvements to enable better outcomes.</p><p>Add value to deliverables with excellent problem solving, idea generation and strategic thinking. Work closely with the wider Advanced Basel Project team, Banking Credit and other senior managers and Team Leaders. Active engagement in discussions with senior management to optimize the best solution for the bank and group.</p><p>&nbsp;</p><p>Ensure there is clarity and structure in the work conducted between the modelling team and operational areas. With complex work items clarity is key to minimising re-work and ensuring accuracy.</p><p>Supporting resourcing requests for operational model application requirements, including Bridge/funding approval where required.</p><p>&nbsp;</p><p>&nbsp;</p><p><strong>Experience and Skills:</strong></p><p>Over 3 years\u2019 experience in a quantitative risk function.</p><p>Experience in managing own work.</p><p>Background in lending and credit sufficient to make the person credible when discussing</p><p>credit issues.</p><p>Well versed in ECL models</p><p>Strong project management ability</p><p>Strong communication and interpersonal skills</p><p>Good and clear written style.</p><p>Ability to convey complex data in a concise understandable manner and distil the key</p><p>messages</p><p>Strong verbal and written reporting skills.</p><p>Executive level presentation skills.</p><p>Highly motivated and self-starting.</p><p>Motivation and influencing</p><p>Ability to work effectively across varying levels of Management and multi-disciplinary teams</p>",
+        "tags": [
+            "ECL",
+            "Credit Risk",
+            "Development"
+        ]
+    },
+    {
+        "title": "Data Engineer Lead (VP)",
+        "type": "Permanent",
+        "location": [
+            "Pune"
+        ],
+        "salary_start": 0,
+        "salary_end": 0,
+        "apply_link": "https://machinehack.com/jobs/?currentJobId=63edd574333430a9a5c16664",
+        "description": "<p>Master\u2019s /MCA or Bachelor\u2019s degree in Engineering / Technology / computer science from premier institutes with 10-12 years of relevant experience in delivering data analytical solutions. Should have managed team of 5-8 Data engineers for at least 2-3 years.</p><p>\uf0b7 &nbsp;Strong people management skills.</p><p>\uf0b7 &nbsp;Ability to identify, clearly articulate and solve complex business problems and present them to the</p><p>management in a structured and simpler form</p><p>\uf0b7 &nbsp;Hands-on experience \u2013 Big Data Technology stack such as HIVE, Spark</p><p>\uf0b7 &nbsp;Programming \u2013Python, Scala, Spark SQL, Pyspark Dataframes API</p><p>\uf0b7 &nbsp;Proficient in designing efficient and robust ETL workflows</p><p>\uf0b7 &nbsp;Ability to automate the manual workflows, processes, data loads</p><p>\uf0b7 &nbsp;Experience of working with large and multiple datasets, data warehouses and ability to pull data using</p><p>relevant programs and coding.</p><p>\uf0b7 &nbsp;Experience of working with Streaming data.</p><p>\uf0b7 &nbsp;Experience in working on Credit Cards and Retail Banking products</p><p>\uf0b7 &nbsp;Should have excellent communication and inter-personal skills</p><p>\uf0b7 &nbsp;Strong process/project management skills</p><p>\uf0b7 &nbsp;Multiple stake holder management</p><p>\uf0b7 &nbsp;Strong team player</p><p>\uf0b7 &nbsp;Ability to guide and Mentor Juniors</p><p>\uf0b7 &nbsp;Control orientated and Risk awareness</p><p>Preferred Qualifications</p><p>\uf0b7 &nbsp;Experience with APIs integration will be preferred</p><p>\uf0b7 &nbsp;Knowledge of Credit Cards and Retail Banking products</p><p>\uf0b7 &nbsp;Good to have exposure to Machine Learning Algorithms, Pattern Mining/Detection</p><p>\uf0b7 &nbsp;Experience in Tableau/Arcadia would be preferred</p><p>Other details</p>",
+        "tags": [
+            "Scala",
+            "Python",
+            "Hive"
+        ]
+    },
+    {
         "title": "Data science",
         "type": "Permanent",
         "location": [
@@ -395,104 +494,6 @@
             "Azure",
             "AWS",
             "Google Cloud Platform"
-        ]
-    },
-    {
-        "title": "Data Scientist Lead",
-        "type": "Permanent",
-        "location": [
-            "Hyderabad"
-        ],
-        "salary_start": 1,
-        "salary_end": 65,
-        "apply_link": "https://machinehack.com/jobs/?currentJobId=63ac37ec50436b8172c1b9e9",
-        "description": "<p>Job Description&nbsp;</p><p>&nbsp; \u00b7&nbsp;&nbsp;Developed advance&nbsp;understanding of business obstacles, create solutions&nbsp;based on&nbsp;analytics&nbsp;and draw implications for model&nbsp;development.&nbsp;</p><p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Combine, explore and draw insights from data. Often large and complex data&nbsp;assets from different parts of the business. Hands on experience with marketing analytics prior or current</p><p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Design and build explorative, predictive- or prescriptive models,&nbsp;utilizing optimization, simulation and machine learning techniques.&nbsp;</p><p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prototype and pilot new solutions and be a part of the aim of&nbsp;\u2018productifying\u2019 those valuable &nbsp; &nbsp; &nbsp; &nbsp;solutions that can have impact at&nbsp;a global scale.&nbsp;</p><p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Guides and coaches other chapter colleagues to help solve data/technical problems at an operational level, and in methodologies to help improve development processes.</p><p>&nbsp;\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Identifies and interprets trends and patterns in complex data sets to enable the business to take data-driven decisions.</p>",
-        "tags": [
-            "Python",
-            "SQL",
-            "Markov Chain Monte Carlo",
-            "Predictive Analytics",
-            "Deep Learning"
-        ]
-    },
-    {
-        "title": "Senior Consultant:- MMX(Market Mixed Modelling )",
-        "type": "Permanent",
-        "location": [
-            "Bengaluru"
-        ],
-        "salary_start": 1,
-        "salary_end": 26,
-        "apply_link": "https://machinehack.com/jobs/?currentJobId=63ac0b0e606352b7b1ade177",
-        "description": "<p>We have a strong preference for candidates who will be able to join quickly.<br>DESIRED QUALIFICATIONS<br>\u2022 Post graduate degree in Economics, Business, Statistics, Mathematics,<br>Operations Research, Industrial Engineering, Quantitative Analysis, or<br>related field<br>\u2022 3-12 years of relevant experience<br>\u2022 Candidates with experience in CPG/ Retail.<br>\u2022 Strong verbal and written communication skills - should be able to<br>manage clients and projects independently.<br>\u2022 Strong problem solving skills<br>\u2022 Strong statistical and quantitative analysis skills<br>\u2022 Well-organized, capable of handling several projects at a time while<br>meeting deadlines<br>\u2022 Skilled at Microsoft Office, particularly Excel and PowerPoint<br>\u2022 Experience with statistical analysis software with R, Python, SAS etc. is<br>a must.<br>RESPONSIBILITIES<br>\u2022 Lead Marketing Mix, Pricing and Testing Projects: Project solution<br>from scratch to developing/presenting client ready decks.<br>\u2022 Interact with clients on a regular basis - need someone very good at<br>verbal and written communication and a person willing to take complete<br>ownership of projects.<br>\u2022 Work on custom projects as per client needs.</p>",
-        "tags": [
-            "MM modules",
-            "Python",
-            "SQL",
-            "Excel"
-        ]
-    },
-    {
-        "title": "Lead Analyst",
-        "type": "Permanent",
-        "location": [
-            "Bengaluru"
-        ],
-        "salary_start": 1,
-        "salary_end": 34.5,
-        "apply_link": "https://machinehack.com/jobs/?currentJobId=63ac04965054afb01bea9d2e",
-        "description": "<p>The primary purpose of this role is to translate business problems into analytic designs and perform<br>the quantitative analysis or model building needed to help guide key business decisions. This<br>includes applying knowledge of Lowe's data concepts to the creation of relevant analytic designs and<br>making sound, data-driven business recommendations. This role must follow analytical best<br>practices, analyze and report accurate results, and identify meaningful insights that directly support<br>decision making.<br>This role leverages multiple resources, advanced analytic methodologies and data streams to<br>support recommendations for executive level business decisions and their teams. At any given time,<br>this role owns multiple collaborative projects across Business and Technology teams while working<br>with Directors and Senior Leadership.<br>With a focus specifically on&nbsp;Digital Analytics Implementation, this role provides advanced data<br>capture capabilities to support complex digital analytics initiatives across multiple Lowe's or Lowe's<br>Digital properties. This role translates complex business needs to effective digital analytics tagging<br>specifications that provide metrics for analytic solutions across various digital channels. These<br>tagging specifications ensure that data can be translated to tangible results for Lowe's and Lowe's<br>Digital.<br>To be successful, the individual in this role must have a deep understanding of analytical techniques<br>and disparate data sources - both internal and external, and strong domain expertise.&nbsp;<br>Although this role does not manage people directly, the individual in this role spends time<br>developing, training, and reviewing the work of others on the team.<br>Qualifications<br>Minimum Qualifications<br>\u2022 Bachelor\u2019s Degree in Business, Economics, Engineering, Statistics, Data or Information Sciences, or<br>related field (or equivalent work experience in a related field) AND 6 years of related experience<br>OR<br>\u2022 Master's Degree in Business, Economics, Engineering, Statistics, Data or Information Sciences, or<br>related field AND 4 years of related experience<br>ALSO<br>\u2022 6 years of experience using analytic tools (e.g., Python, SQL, SAS, R, Adobe, Alteryx, Knime, Aster,<br>Base SAS, SAS Enterprise Miner, Enterprise Guide)<br>\u2022 3 years of experience working with Enterprise level databases (e.g., Hadoop, Teradata, GCP,<br>Azure, Oracle, DB2)<br>\u2022 4 years of experience using enterprise-grade data visualization tools (e.g., MicroStrategy VI, Power<br>BI, Tableau)<br>\u2022 3 years of Functional experience performing predictive analytics at a large scale enterprise<br>\u2022 6 years of experience performing advanced data modeling, data mining and exploratory data<br>analysis (e.g., linear/logistic regression, ARIMA, Cluster Analysis)<br>\u2022 6 years of experience translating business requirements in analytics models<br>\u2022 Experience working cross-functionally<br>\u2022 5 years presenting/communicating analytics results to business partners</p><p>Preferred Qualifications<br>\u2022 Master's Degree in Business, Engineering, Statistics, Economics or related area<br>\u2022 Experience with business intelligence and reporting tools (e.g., MicroStrategy, Business Objects,<br>Cognos, Adobe, TM1, Alteryx, Knime, SSIS, SQL, Svr) and Enterprise level databases (Hadoop, GCP,<br>Azure, Oracle, Teradata, DB2)<br>\u2022 Experience working with big, unstructured data in a retail environment<br>\u2022 Experience with analytical tools like Python, Alteryx, Knime, SAS, R, etc.<br>\u2022 Experience with visualization tools like MicroStrategy VI, Power BI, SAS-VA, Tableau, D3, R-Shiny<br>\u2022 Programming experience using tools such as R, Python<br>\u2022 Data Science experience using tools such as ML, Text mining<br>\u2022 Advanced knowledge of SQL<br>\u2022 Project management experience<br>\u2022 Experience in home improvement retail<br>Digital Analytics Implementation<br>\u2022 3 years of experience of digital analytics (or general analytics) using tools such as Adobe Analytics<br>(SiteCatalyst, Ad-hoc, and Report Builder), Google Analytics, etc. (specific to the Digital Analytics<br>Implementation role)<br>\u2022 3 years of experience in digital analytics implementation using enterprise grade tools such as<br>Adobe Dynamic Tag Management (DTM), Google Tag Manager (GTM), Tealium, Ensighten, etc.<br>(specific to the Digital Analytics Implementation role)<br>\u2022 3 years of data validation experience using tools such as Charles, Fiddler, etc. (specific to the<br>Digital Analytics Implementation role)<br>\u2022 Digital analytics implementation certification (for example, Adobe certified implementation expert,<br>Adobe processing rules authorization, etc.) (specific to the Digital Analytics Implementation role)</p>",
-        "tags": [
-            "Python",
-            "SQL"
-        ]
-    },
-    {
-        "title": "Analytics Consultant",
-        "type": "Permanent",
-        "location": [
-            "Hyderabad"
-        ],
-        "salary_start": 1,
-        "salary_end": 25,
-        "apply_link": "https://machinehack.com/jobs/?currentJobId=63ac03916063528680ade0c0",
-        "description": "<p style=\"margin-left:0px;\">Has worked in a Core Analytics/Renowned Product companies</p><p style=\"margin-left:0px;\">Data Slicing, Data Dicing</p><p style=\"margin-left:0px;\">Basics of Python and SQL</p><p style=\"margin-left:0px;\">Excel and PowerPoint is a must have</p><p style=\"margin-left:0px;\">Stakeholder management</p>",
-        "tags": [
-            "Python",
-            "SQL"
-        ]
-    },
-    {
-        "title": "Senior Data Scientist (Pharma Manufacturing)",
-        "type": "Permanent",
-        "location": [
-            "Hyderabad"
-        ],
-        "salary_start": 1,
-        "salary_end": 35,
-        "apply_link": "https://machinehack.com/jobs/?currentJobId=63ac0154760b30334dadff53",
-        "description": "<p>Location: (Hyderabad, Bachupally)<br>Overview:<br>We are seeking a highly skilled Senior Data Scientist to join our team at our pharmaceutical<br>manufacturing facility. The ideal candidate will have a strong background in data science, machine<br>learning, and statistical analysis, with a focus on applying these techniques to optimize<br>manufacturing processes and improve product quality.<br>Responsibilities:<br>\u2022 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Design and implement data-driven solutions to optimize pharmaceutical manufacturing<br>processes and improve product quality<br>\u2022 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Utilize machine learning and statistical analysis to identify trends and patterns in<br>manufacturing data<br>\u2022 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Collaborate with cross-functional teams to define and prioritize data-driven projects that<br>align with business objectives<br>\u2022 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Develop and maintain predictive models to forecast production, quality, and other key<br>performance indicators<br>\u2022 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Analyze and interpret complex data sets to identify opportunities for process improvement<br>and cost savings<br>\u2022 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Communicate findings and recommendations to stakeholders through clear and concise<br>reports and presentations<br>Requirements:<br>\u2022 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Master's or PhD in Data Science, Computer Science, or a related field<br>\u2022 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 5+ years of experience in data science, machine learning, and statistical analysis, with a<br>focus on manufacturing or process optimization<br>\u2022 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Strong programming skills in Python or R, with experience using data visualization and<br>machine learning libraries<br>\u2022 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Experience with statistical analysis techniques, such as regression analysis, ANOVA, and<br>hypothesis testing<br>\u2022 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Strong communication and collaboration skills, with the ability to effectively present<br>findings to cross-functional teams<br>\u2022 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Experience with pharmaceutical manufacturing or quality control is a plus<br>If you are a highly motivated and skilled data scientist with a passion for applying your skills to<br>optimize manufacturing processes, we encourage you to apply for this exciting opportunity.</p>",
-        "tags": [
-            "Python",
-            "R",
-            "Linear Regression",
-            "Regression Analysis",
-            "ANOVA"
-        ]
-    },
-    {
-        "title": "Data Steward/Analyst:- (Pharma Manufacturing)",
-        "type": "Permanent",
-        "location": [
-            "Hyderabad"
-        ],
-        "salary_start": 1,
-        "salary_end": 15,
-        "apply_link": "https://machinehack.com/jobs/?currentJobId=63abfd8f760b30ae67adfe96",
-        "description": "<p><strong>Location: (Hyderabad, Bachupally)</strong><br><strong>&nbsp;</strong><br><strong>Overview:</strong><br><strong>We are seeking a highly skilled Data Analyst to join our team at our pharmaceutical manufacturing</strong><br><strong>facility. The ideal candidate will have a strong background in data analysis, with a focus on applying</strong><br><strong>these techniques to optimize manufacturing processes and improve product quality.</strong><br><strong>&nbsp;</strong><br><strong>Responsibilities:</strong><br><strong>\u00b7 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Analyze and interpret complex data sets from manufacturing processes to identify trends and</strong><br><strong>patterns</strong><br><strong>\u00b7 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Utilize SQL, Python, and other data analysis tools to extract, manipulate, and analyze data from</strong><br><strong>various sources, including LIMS, Empower, Pi historians, and machine sensors databases</strong><br><strong>\u00b7 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Collaborate with cross-functional teams to define and prioritize data-driven projects that align</strong><br><strong>with business objectives</strong><br><strong>\u00b7 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Develop and maintain dashboards and reports to visualize and communicate findings to</strong><br><strong>stakeholders</strong><br><strong>\u00b7 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Work closely with the Data Steward to ensure data quality and integrity</strong><br><strong>\u00b7 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Identify opportunities for process improvement and cost savings through data-driven insights</strong><br><strong>Requirements:</strong><br><strong>\u00b7 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Bachelor's degree in Data Science, Computer Science, or a related field</strong><br><strong>\u00b7 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;3+ years of experience in data analysis, with a focus on manufacturing or process optimization</strong><br><strong>\u00b7 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Strong programming skills in SQL and Python, with experience using data visualization tools</strong><br><strong>\u00b7 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Experience with LIMS, Empower, and Pi historians, as well as machine sensors databases</strong><br><strong>\u00b7 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Strong communication and collaboration skills, with the ability to effectively present findings to</strong><br><strong>cross-functional teams</strong><br><strong>\u00b7 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Experience with pharmaceutical manufacturing or quality control is a plus</strong><br><strong>If you are a motivated and skilled data analyst with a passion for applying your skills to optimize</strong><br><strong>manufacturing processes, we encourage you to apply for this exciting opportunity</strong></p>",
-        "tags": [
-            "Python",
-            "SQL"
         ]
     }
 ]

@@ -13,9 +13,19 @@
         "title": "Postdoctoral Research Scientist",
         "type": "Not mentioned",
         "location": "New York City",
-        "salary_start": "75,000",
-        "salary_end": "100,000",
+        "salary_start": 75,
+        "salary_end": 100,
         "apply_link": "https://datajobs.com/Columbia-University-Data-Science-Institute/Postdoctoral-Research-Scientist-Job~115107",
+        "description": "Not mentioned",
+        "tags": []
+    },
+    {
+        "title": "Data Scientist",
+        "type": "Not mentioned",
+        "location": "Chicago, IL",
+        "salary_start": 0,
+        "salary_end": 0,
+        "apply_link": "https://datajobs.com/COPA/Data-Scientist-Job~118340",
         "description": "Not mentioned",
         "tags": []
     },
@@ -43,8 +53,8 @@
         "title": "Data Scientist",
         "type": "Not mentioned",
         "location": "Remote",
-        "salary_start": "75,000",
-        "salary_end": "100,000",
+        "salary_start": 75,
+        "salary_end": 100,
         "apply_link": "https://datajobs.com/HFR-Inc/Data-Scientist-Job~114738",
         "description": "Not mentioned",
         "tags": []
@@ -93,8 +103,8 @@
         "title": "Data Scientist",
         "type": "Not mentioned",
         "location": "Grand Junction, CO",
-        "salary_start": "75,000",
-        "salary_end": "100,000",
+        "salary_start": 75,
+        "salary_end": 100,
         "apply_link": "https://datajobs.com/City-of-Grand-Junction/Data-Scientist-Job~102760",
         "description": "Not mentioned",
         "tags": []
@@ -106,16 +116,6 @@
         "salary_start": 0,
         "salary_end": 0,
         "apply_link": "https://datajobs.com/University-of-Central-Florida/Endowed-Professor-Open-Rank-Statistics-And-Data-Science-Job~101908",
-        "description": "Not mentioned",
-        "tags": []
-    },
-    {
-        "title": "Lead Data Science Engineer",
-        "type": "Not mentioned",
-        "location": "Remote",
-        "salary_start": 0,
-        "salary_end": 0,
-        "apply_link": "https://datajobs.com/DraftKings/Lead-Data-Science-Engineer-Job~100873",
         "description": "Not mentioned",
         "tags": []
     }

@@ -1,42 +1,27 @@
 [
     {
-        "title": "Data Analyst",
+        "title": "Consultant for AI applications (f/m/x)",
         "type": "Full Time",
-        "location": "Remote",
-        "salary_start": "80",
-        "salary_end": "110",
-        "apply_link": "https://ai-jobs.net/job/40879-data-analyst/",
+        "location": "Neuherberg near Munich",
+        "salary_start": 50,
+        "salary_end": 73,
+        "apply_link": "https://ai-jobs.net/job/43114-consultant-for-ai-applications-fmx/",
         "description": "",
         "tags": [
-            "A/B testing",
-            "Data Analytics",
-            "Data Studio",
-            "Data warehouse",
-            "Engineering"
-        ]
-    },
-    {
-        "title": "AI Application Developer",
-        "type": "Freelance",
-        "location": "Remote",
-        "salary_start": "20",
-        "salary_end": "30",
-        "apply_link": "https://ai-jobs.net/job/40788-ai-application-developer/",
-        "description": "",
-        "tags": [
-            "Chatbots",
-            "ChatGPT",
-            "GPT",
-            "Research"
+            "Computer Science",
+            "Deep Learning",
+            "Engineering",
+            "HPC",
+            "Machine Learning"
         ]
     },
     {
         "title": "AI Content Creator",
         "type": "Freelance",
         "location": "Remote",
-        "salary_start": "20",
-        "salary_end": "30",
-        "apply_link": "https://ai-jobs.net/job/40787-ai-content-creator/",
+        "salary_start": 20,
+        "salary_end": 30,
+        "apply_link": "https://ai-jobs.net/job/42991-ai-content-creator/",
         "description": "",
         "tags": [
             "AI content",
@@ -47,12 +32,42 @@
         ]
     },
     {
+        "title": "AI Writing Creator",
+        "type": "Freelance",
+        "location": "Remote",
+        "salary_start": 20,
+        "salary_end": 30,
+        "apply_link": "https://ai-jobs.net/job/42990-ai-writing-creator/",
+        "description": "",
+        "tags": [
+            "Copywriting",
+            "Prompt writing",
+            "Research",
+            "UX"
+        ]
+    },
+    {
+        "title": "AI Application Developer",
+        "type": "Freelance",
+        "location": "Remote",
+        "salary_start": 20,
+        "salary_end": 30,
+        "apply_link": "https://ai-jobs.net/job/42989-ai-application-developer/",
+        "description": "",
+        "tags": [
+            "Chatbots",
+            "ChatGPT",
+            "GPT",
+            "Research"
+        ]
+    },
+    {
         "title": "AI Video Producer",
         "type": "Freelance",
         "location": "Remote",
-        "salary_start": "20",
-        "salary_end": "30",
-        "apply_link": "https://ai-jobs.net/job/40786-ai-video-producer/",
+        "salary_start": 20,
+        "salary_end": 30,
+        "apply_link": "https://ai-jobs.net/job/42988-ai-video-producer/",
         "description": "",
         "tags": [
             "AI video",
@@ -64,55 +79,103 @@
         "title": "AI Artist",
         "type": "Freelance",
         "location": "Remote",
-        "salary_start": "20",
-        "salary_end": "30",
-        "apply_link": "https://ai-jobs.net/job/40785-ai-artist/",
+        "salary_start": 20,
+        "salary_end": 30,
+        "apply_link": "https://ai-jobs.net/job/42987-ai-artist/",
         "description": "",
         "tags": [
             "AI art",
             "DALL-E",
             "Midjourney",
-            "Research",
-            "Stable Diffusion"
+            "Research"
         ]
     },
     {
-        "title": "AI Writing Creator",
-        "type": "Freelance",
-        "location": "Remote",
-        "salary_start": "20",
-        "salary_end": "30",
-        "apply_link": "https://ai-jobs.net/job/40784-ai-writing-creator/",
+        "title": "Machine Learning Scientist",
+        "type": "Full Time",
+        "location": "Ashburn, VA 20147",
+        "salary_start": 125,
+        "salary_end": 200,
+        "apply_link": "https://ai-jobs.net/job/42235-machine-learning-scientist/",
         "description": "",
         "tags": [
-            "Copywriting",
-            "Prompt writing",
-            "Research",
-            "UX"
+            "Computer Science",
+            "Computer Vision",
+            "Data Mining",
+            "Engineering",
+            "Machine Learning"
+        ]
+    },
+    {
+        "title": "Data Analyst",
+        "type": "Full Time",
+        "location": "Remote",
+        "salary_start": 80,
+        "salary_end": 110,
+        "apply_link": "https://ai-jobs.net/job/40879-data-analyst/",
+        "description": "",
+        "tags": [
+            "A/B testing",
+            "Data Analytics",
+            "Data Studio",
+            "Data warehouse",
+            "Engineering"
+        ]
+    },
+    {
+        "title": "Lead Machine Learning Engineer",
+        "type": "Full Time",
+        "location": "New York City",
+        "salary_start": 175,
+        "salary_end": 200,
+        "apply_link": "https://ai-jobs.net/job/41775-lead-machine-learning-engineer/",
+        "description": "",
+        "tags": [
+            "Clojure",
+            "Computer Science",
+            "Data visualization",
+            "Deep Learning",
+            "E-commerce"
+        ]
+    },
+    {
+        "title": "Senior Research Engineer, LLMs / Privacy",
+        "type": "Full Time",
+        "location": "Remote Europe",
+        "salary_start": 60,
+        "salary_end": 80,
+        "apply_link": "https://ai-jobs.net/job/41469-senior-research-engineer-llms-privacy/",
+        "description": "",
+        "tags": [
+            "Architecture",
+            "Engineering",
+            "GitHub",
+            "GPU",
+            "HPC"
         ]
     },
     {
         "title": "University Professor of Artificial Intelligence in Protein Science",
         "type": "Full Time",
         "location": "Bayreuth, Germany",
-        "salary_start": "60",
-        "salary_end": "89",
+        "salary_start": 60,
+        "salary_end": 89,
         "apply_link": "https://ai-jobs.net/job/41075-university-professor-of-artificial-intelligence-in-protein-science/",
         "description": "",
         "tags": [
+            "Biochemistry",
             "Biology",
             "Chemistry",
             "Machine Learning",
-            "Research",
-            "Teaching"
+            "Research"
         ]
     },
     {
         "title": "Quantitative Researcher - Machine Learning / AI",
         "type": "Full Time",
         "location": "Chicago, New York, or Amsterdam",
-        "salary_start": "200",
-        "salary_end": "250",
+        "salary_start": 200,
+        "salary_end": 250,
         "apply_link": "https://ai-jobs.net/job/40454-quantitative-researcher-machine-learning-ai/",
         "description": "",
         "tags": [
@@ -127,8 +190,8 @@
         "title": "Research Scientist",
         "type": "Full Time",
         "location": "Norfolk, VA",
-        "salary_start": "70",
-        "salary_end": "85",
+        "salary_start": 70,
+        "salary_end": 85,
         "apply_link": "https://ai-jobs.net/job/39437-research-scientist/",
         "description": "",
         "tags": [
@@ -143,8 +206,8 @@
         "title": "Teaching Professor and Academic Director of MSBA Program",
         "type": "Full Time",
         "location": "Washington, DC",
-        "salary_start": "120",
-        "salary_end": "150",
+        "salary_start": 120,
+        "salary_end": 150,
         "apply_link": "https://ai-jobs.net/job/38846-teaching-professor-and-academic-director-of-msba-program/",
         "description": "",
         "tags": [
@@ -157,8 +220,8 @@
         "title": "Director, Scientific Data Division",
         "type": "Full Time",
         "location": "Berkeley, CA",
-        "salary_start": "220",
-        "salary_end": "457",
+        "salary_start": 220,
+        "salary_end": 457,
         "apply_link": "https://ai-jobs.net/job/38514-director-scientific-data-division/",
         "description": "",
         "tags": [
@@ -170,1120 +233,919 @@
         ]
     },
     {
-        "title": "Assistant Professor Position",
+        "title": "Marketing Data Analyst",
         "type": "Full Time",
-        "location": "College Park, MD, United States",
-        "salary_start": "60",
-        "salary_end": "60",
-        "apply_link": "https://ai-jobs.net/job/38424-assistant-professor-position/",
+        "location": "Paris, France",
+        "salary_start": 39,
+        "salary_end": 73,
+        "apply_link": "https://ai-jobs.net/job/43290-marketing-data-analyst/",
         "description": "",
         "tags": [
-            "Engineering",
-            "Industrial",
-            "PhD",
-            "Research",
-            "Teaching"
+            "Open Source",
+            "Python",
+            "R",
+            "SQL"
         ]
     },
     {
-        "title": "Assistant Adjunct Professor  - Data Science - School of Information",
+        "title": "Applied Solution Data Engineer",
         "type": "Full Time",
-        "location": "Berkeley, CA",
-        "salary_start": "82",
-        "salary_end": "107",
-        "apply_link": "https://ai-jobs.net/job/37995-assistant-adjunct-professor-data-science-school-of-information/",
-        "description": "",
-        "tags": [
-            "Computer Science",
-            "Economics",
-            "Engineering",
-            "Machine Learning",
-            "NLP"
-        ]
-    },
-    {
-        "title": "Research Scientist",
-        "type": "Full Time",
-        "location": "New Orleans, La",
-        "salary_start": "65",
-        "salary_end": "65",
-        "apply_link": "https://ai-jobs.net/job/36888-research-scientist/",
-        "description": "",
-        "tags": [
-            "Big Data",
-            "Computer Science",
-            "Data Analytics",
-            "Data management",
-            "Hadoop"
-        ]
-    },
-    {
-        "title": "Staff AI/ML Infrastructure Engineer (Permanent Remote, US)",
-        "type": "Full Time",
-        "location": "Bethesda, MD",
-        "salary_start": "62",
-        "salary_end": "115",
-        "apply_link": "https://ai-jobs.net/job/41330-staff-aiml-infrastructure-engineer-permanent-remote-us/",
-        "description": "",
-        "tags": [
-            "Airflow",
-            "Computer Science",
-            "Databricks",
-            "Distributed Systems",
-            "Economics"
-        ]
-    },
-    {
-        "title": "Data Analyst - Marketing (Remote - Austin, or U.S.)",
-        "type": "Full Time",
-        "location": "Austin, Texas",
-        "salary_start": "92",
-        "salary_end": "130",
-        "apply_link": "https://ai-jobs.net/job/41412-data-analyst-marketing-remote-austin-or-us/",
-        "description": "",
-        "tags": [
-            "BigQuery",
-            "Classification",
-            "Data visualization",
-            "Genetics",
-            "Looker"
-        ]
-    },
-    {
-        "title": "Intern | Machine Learning (Generative AI)",
-        "type": "Internship",
-        "location": "Singapore, Singapore",
-        "salary_start": 0,
-        "salary_end": 0,
-        "apply_link": "https://ai-jobs.net/job/41351-intern-machine-learning-generative-ai/",
-        "description": "",
-        "tags": [
-            "Computer Science",
-            "Data analysis",
-            "Deep Learning",
-            "EDA",
-            "Engineering"
-        ]
-    },
-    {
-        "title": "Senior Data Engineer, TIDAL",
-        "type": "Full Time",
-        "location": "New York City, United States",
-        "salary_start": "115",
-        "salary_end": "180",
-        "apply_link": "https://ai-jobs.net/job/41336-senior-data-engineer-tidal/",
+        "location": "Durham, North Carolina, United States",
+        "salary_start": 115,
+        "salary_end": 180,
+        "apply_link": "https://ai-jobs.net/job/43310-applied-solution-data-engineer/",
         "description": "",
         "tags": [
             "Agile",
-            "Airflow",
+            "Architecture",
             "AWS",
-            "Banking",
-            "Blockchain"
-        ]
-    },
-    {
-        "title": "Principal Engineer, Data Engineering",
-        "type": "Full Time",
-        "location": "Toronto, Ontario, Canada",
-        "salary_start": "115",
-        "salary_end": "180",
-        "apply_link": "https://ai-jobs.net/job/41334-principal-engineer-data-engineering/",
-        "description": "",
-        "tags": [
-            "APIs",
-            "AWS",
-            "BigQuery",
-            "Blockchain",
-            "Classification"
-        ]
-    },
-    {
-        "title": "Lead Data Scientist",
-        "type": "Full Time",
-        "location": "United States",
-        "salary_start": "40",
-        "salary_end": "61",
-        "apply_link": "https://ai-jobs.net/job/41376-lead-data-scientist/",
-        "description": "",
-        "tags": [
-            "A/B testing",
-            "BigQuery",
             "Computer Science",
+            "Data pipelines"
+        ]
+    },
+    {
+        "title": "Data Analyst Senior",
+        "type": "Full Time",
+        "location": "Mexico City, Mexico",
+        "salary_start": 92,
+        "salary_end": 130,
+        "apply_link": "https://ai-jobs.net/job/43326-data-analyst-senior/",
+        "description": "",
+        "tags": [
+            "Azure",
+            "Big Data",
+            "Business Intelligence",
             "Databricks",
+            "Data pipelines"
+        ]
+    },
+    {
+        "title": "Product Data Manager",
+        "type": "Full Time",
+        "location": "Trumpington, United Kingdom",
+        "salary_start": 77,
+        "salary_end": 134,
+        "apply_link": "https://ai-jobs.net/job/43287-product-data-manager/",
+        "description": "",
+        "tags": [
+            "Agile",
+            "Data management",
+            "Oracle",
+            "Research",
+            "SQL"
+        ]
+    },
+    {
+        "title": "Data Modeling Analyst II-Experian Clarity Services",
+        "type": "Full Time",
+        "location": "Schaumburg, IL, United States",
+        "salary_start": 69,
+        "salary_end": 128,
+        "apply_link": "https://ai-jobs.net/job/43308-data-modeling-analyst-ii-experian-clarity-services/",
+        "description": "",
+        "tags": [
+            "AWS",
+            "Computer Science",
+            "Data Analytics",
+            "Data quality",
+            "Data warehouse"
+        ]
+    },
+    {
+        "title": "Senior Data Engineer",
+        "type": "Full Time",
+        "location": "Houston, TX, United States",
+        "salary_start": 75,
+        "salary_end": 146,
+        "apply_link": "https://ai-jobs.net/job/43309-senior-data-engineer/",
+        "description": "",
+        "tags": [
+            "Agile",
+            "Ansible",
+            "Architecture",
+            "Azure",
+            "CI/CD"
+        ]
+    },
+    {
+        "title": "Data Scientist",
+        "type": "Full Time",
+        "location": "Warsaw, Poland",
+        "salary_start": 90,
+        "salary_end": 173,
+        "apply_link": "https://ai-jobs.net/job/43302-data-scientist/",
+        "description": "",
+        "tags": [
+            "Banking",
+            "Business Intelligence",
+            "Computer Science",
+            "Data Mining",
             "Economics"
         ]
     },
     {
-        "title": "Senior Insight Analyst (Portuguese or Spanish Speaker)",
+        "title": "Data Analyst - Accounting SQL",
         "type": "Full Time",
-        "location": "London, England, United Kingdom",
-        "salary_start": "35",
-        "salary_end": "42",
-        "apply_link": "https://ai-jobs.net/job/41370-senior-insight-analyst-portuguese-or-spanish-speaker/",
-        "description": "",
-        "tags": [
-            "Consulting",
-            "Research",
-            "Statistics"
-        ]
-    },
-    {
-        "title": "Binance Accelerator Programme - Data Science (Sanctions, AB&C)",
-        "type": "Full Time",
-        "location": "Asia",
-        "salary_start": "35",
-        "salary_end": "65",
-        "apply_link": "https://ai-jobs.net/job/41389-binance-accelerator-programme-data-science-sanctions-abc/",
-        "description": "",
-        "tags": [
-            "Blockchain",
-            "Computer Science",
-            "Crypto",
-            "Data analysis",
-            "Data quality"
-        ]
-    },
-    {
-        "title": "Senior Data Scientist, Data Foundations",
-        "type": "Full Time",
-        "location": "San Francisco",
-        "salary_start": "129",
-        "salary_end": "185",
-        "apply_link": "https://ai-jobs.net/job/41377-senior-data-scientist-data-foundations/",
+        "location": "Milan, Italy",
+        "salary_start": 42,
+        "salary_end": 64,
+        "apply_link": "https://ai-jobs.net/job/43289-data-analyst-accounting-sql/",
         "description": "",
         "tags": [
             "Business Intelligence",
-            "Engineering",
-            "Finance",
-            "Machine Learning",
-            "Research"
-        ]
-    },
-    {
-        "title": "eDiscovery Data Analyst",
-        "type": "Full Time",
-        "location": "Cambridge, MA, United States",
-        "salary_start": "92",
-        "salary_end": "130",
-        "apply_link": "https://ai-jobs.net/job/41419-ediscovery-data-analyst/",
-        "description": "",
-        "tags": [
-            "Data analysis"
-        ]
-    },
-    {
-        "title": "Data Analyst (People)",
-        "type": "Full Time",
-        "location": "London, United Kingdom",
-        "salary_start": "92",
-        "salary_end": "130",
-        "apply_link": "https://ai-jobs.net/job/41322-data-analyst-people/",
-        "description": "",
-        "tags": [
-            "Data Analytics",
+            "Data analysis",
             "Data Studio",
             "Data visualization",
-            "Engineering",
-            "GCP"
-        ]
-    },
-    {
-        "title": "Data Scientist (Analyst)",
-        "type": "Full Time",
-        "location": "Bengaluru, India",
-        "salary_start": "129",
-        "salary_end": "185",
-        "apply_link": "https://ai-jobs.net/job/41383-data-scientist-analyst/",
-        "description": "",
-        "tags": [
-            "Banking",
-            "Business Intelligence",
-            "Computer Science",
-            "Consulting",
-            "Economics"
-        ]
-    },
-    {
-        "title": "Junior Data Analyst",
-        "type": "Full Time",
-        "location": "Krak\u00f3w, Poland",
-        "salary_start": "42",
-        "salary_end": "60",
-        "apply_link": "https://ai-jobs.net/job/41294-junior-data-analyst/",
-        "description": "",
-        "tags": [
-            "Big Data",
-            "Data governance",
-            "Data management",
-            "Data quality",
-            "Economics"
-        ]
-    },
-    {
-        "title": "Machine Learning Engineer",
-        "type": "Full Time",
-        "location": "Hyderabad, India",
-        "salary_start": "131",
-        "salary_end": "201",
-        "apply_link": "https://ai-jobs.net/job/41358-machine-learning-engineer/",
-        "description": "",
-        "tags": [
-            "APIs",
-            "Azure",
-            "Computer Science",
-            "Deep Learning",
-            "Kubernetes"
-        ]
-    },
-    {
-        "title": "Lead Data Analyst - Growth (PHILIPPINES)",
-        "type": "Full Time",
-        "location": "Angeles, Pampanga, Philippines - Remote",
-        "salary_start": "62",
-        "salary_end": "135",
-        "apply_link": "https://ai-jobs.net/job/41405-lead-data-analyst-growth-philippines/",
-        "description": "",
-        "tags": [
-            "Data pipelines",
-            "Data visualization",
-            "Excel",
-            "Pipelines",
-            "Python"
-        ]
-    },
-    {
-        "title": "Data Science Intern - Payments",
-        "type": "Internship",
-        "location": "Singapore",
-        "salary_start": 0,
-        "salary_end": 0,
-        "apply_link": "https://ai-jobs.net/job/41387-data-science-intern-payments/",
-        "description": "",
-        "tags": [
-            "Caffe",
-            "Computer Vision",
-            "Deep Learning",
-            "Engineering",
-            "Keras"
-        ]
-    },
-    {
-        "title": "Data Analyst, Senior Advisor",
-        "type": "Full Time",
-        "location": "Dallas, Texas, United States Or Remote",
-        "salary_start": "92",
-        "salary_end": "130",
-        "apply_link": "https://ai-jobs.net/job/41411-data-analyst-senior-advisor/",
-        "description": "",
-        "tags": [
-            "Data analysis",
-            "Economics",
-            "Engineering",
-            "Finance",
-            "KPIs"
-        ]
-    },
-    {
-        "title": "Associate Team Lead - Data Operations - Link Key People",
-        "type": "Full Time",
-        "location": "Hungary - Budapest",
-        "salary_start": "51",
-        "salary_end": "94",
-        "apply_link": "https://ai-jobs.net/job/41403-associate-team-lead-data-operations-link-key-people/",
-        "description": "",
-        "tags": [
-            "Agile",
-            "Consulting",
-            "DataOps",
-            "Engineering",
             "Excel"
         ]
     },
     {
-        "title": "Data Analyst (DEX - Lifecycle)",
+        "title": "Insights & Data Science Expert",
         "type": "Full Time",
-        "location": "London, United Kingdom",
-        "salary_start": "92",
-        "salary_end": "130",
-        "apply_link": "https://ai-jobs.net/job/41323-data-analyst-dex-lifecycle/",
+        "location": "Paris, France",
+        "salary_start": 62,
+        "salary_end": 115,
+        "apply_link": "https://ai-jobs.net/job/43301-insights-data-science-expert/",
         "description": "",
         "tags": [
-            "CX",
-            "Data Analytics",
-            "Looker",
+            "Open Source",
             "Python",
+            "R",
             "SQL"
         ]
     },
     {
-        "title": "Deep Learning Infrastructure Intern (Summer, Full-Time)",
-        "type": "Internship",
-        "location": "Pittsburgh, PA",
-        "salary_start": 0,
-        "salary_end": 0,
-        "apply_link": "https://ai-jobs.net/job/41369-deep-learning-infrastructure-intern-summer-full-time/",
+        "title": "Data Engineer (m/w/d)",
+        "type": "Full Time",
+        "location": "K\u00f6ln, Germany",
+        "salary_start": 61,
+        "salary_end": 135,
+        "apply_link": "https://ai-jobs.net/job/43281-data-engineer-mwd/",
         "description": "",
         "tags": [
+            "Athena",
             "AWS",
-            "Computer Science",
-            "Computer Vision",
-            "Deep Learning",
-            "DevOps"
-        ]
-    },
-    {
-        "title": "Lead Data Analyst - FinTech",
-        "type": "Full Time",
-        "location": "Delhi, Remote",
-        "salary_start": "92",
-        "salary_end": "130",
-        "apply_link": "https://ai-jobs.net/job/41422-lead-data-analyst-fintech/",
-        "description": "",
-        "tags": [
-            "Banking",
-            "Data Analytics",
-            "FinTech",
-            "Looker",
-            "QlikView"
-        ]
-    },
-    {
-        "title": "Sr. Data Scientist",
-        "type": "Full Time",
-        "location": "Bengaluru, India",
-        "salary_start": "129",
-        "salary_end": "185",
-        "apply_link": "https://ai-jobs.net/job/41308-sr-data-scientist/",
-        "description": "",
-        "tags": [
+            "Azure",
             "Big Data",
+            "BigQuery"
+        ]
+    },
+    {
+        "title": "Director, Data Science",
+        "type": "Full Time",
+        "location": "Chicago, IL, United States",
+        "salary_start": 97,
+        "salary_end": 175,
+        "apply_link": "https://ai-jobs.net/job/43298-director-data-science/",
+        "description": "",
+        "tags": [
+            "CI/CD",
             "Clustering",
             "Computer Science",
             "Consulting",
-            "Data Analytics"
-        ]
-    },
-    {
-        "title": "REF37425Y - Associate Director - Data Engineering (Snowflake Architect)",
-        "type": "Full Time",
-        "location": "Chennai, India",
-        "salary_start": "73",
-        "salary_end": "120",
-        "apply_link": "https://ai-jobs.net/job/41341-ref37425y-associate-director-data-engineering-snowflake-architect/",
-        "description": "",
-        "tags": [
-            "APIs",
-            "Avro",
-            "AWS",
-            "Azure",
-            "Banking"
-        ]
-    },
-    {
-        "title": "Embedded Machine Learning Intern for Sensors and Edge Devices",
-        "type": "Internship",
-        "location": "Sunnyvale, CA, United States",
-        "salary_start": "84",
-        "salary_end": "84",
-        "apply_link": "https://ai-jobs.net/job/41357-embedded-machine-learning-intern-for-sensors-and-edge-devices/",
-        "description": "",
-        "tags": [
-            "ASIC Design",
-            "Classification",
-            "Computer Science",
-            "Data Mining",
-            "Engineering"
-        ]
-    },
-    {
-        "title": "Data Analyst Team Leader",
-        "type": "Full Time",
-        "location": "Hanoi, Vietnam",
-        "salary_start": "92",
-        "salary_end": "130",
-        "apply_link": "https://ai-jobs.net/job/41404-data-analyst-team-leader/",
-        "description": "",
-        "tags": [
-            "Power BI",
-            "Python",
-            "SQL"
-        ]
-    },
-    {
-        "title": "Managing Director Data and AI Platforms",
-        "type": "Full Time",
-        "location": "Alberta, Canada - Remote",
-        "salary_start": "73",
-        "salary_end": "136",
-        "apply_link": "https://ai-jobs.net/job/41367-managing-director-data-and-ai-platforms/",
-        "description": "",
-        "tags": [
-            "A/B testing",
-            "AI governance",
-            "Big Data",
-            "Computer Science",
-            "Consulting"
-        ]
-    },
-    {
-        "title": "Project Manager - Software Development for Surgical Data Science",
-        "type": "Full Time",
-        "location": "Munich, Germany",
-        "salary_start": "62",
-        "salary_end": "115",
-        "apply_link": "https://ai-jobs.net/job/41288-project-manager-software-development-for-surgical-data-science/",
-        "description": "",
-        "tags": [
-            "Agile",
-            "Big Data",
-            "Computer Science",
-            "Data analysis",
-            "Data Analytics"
-        ]
-    },
-    {
-        "title": "Process Data Engineer",
-        "type": "Full Time",
-        "location": "New York City, United States",
-        "salary_start": "90",
-        "salary_end": "120",
-        "apply_link": "https://ai-jobs.net/job/41339-process-data-engineer/",
-        "description": "",
-        "tags": [
-            "APIs",
-            "AWS",
-            "Azure",
-            "Computer Science",
-            "Engineering"
-        ]
-    },
-    {
-        "title": "Data Engineer - Spark/Scala - H/F",
-        "type": "Full Time",
-        "location": "Boulogne-Billancourt, France",
-        "salary_start": "61",
-        "salary_end": "135",
-        "apply_link": "https://ai-jobs.net/job/41342-data-engineer-sparkscala-hf/",
-        "description": "",
-        "tags": [
-            "Big Data",
-            "GCP",
-            "Python",
-            "Scala",
-            "Spark"
-        ]
-    },
-    {
-        "title": "Software Engineer (Back End Development - AI/ML)",
-        "type": "Full Time",
-        "location": "Hyderabad, India",
-        "salary_start": "55",
-        "salary_end": "102",
-        "apply_link": "https://ai-jobs.net/job/41328-software-engineer-back-end-development-aiml/",
-        "description": "",
-        "tags": [
-            "Machine Learning",
-            "OOP",
-            "Python",
-            "Research",
-            "Testing"
-        ]
-    },
-    {
-        "title": "Senior Customer Data Analyst",
-        "type": "Full Time",
-        "location": "Remote, United States",
-        "salary_start": "86",
-        "salary_end": "179",
-        "apply_link": "https://ai-jobs.net/job/41406-senior-customer-data-analyst/",
-        "description": "",
-        "tags": [
-            "Airflow",
-            "APIs",
-            "Data analysis",
-            "Data Warehousing",
-            "Looker"
+            "Data analysis"
         ]
     },
     {
         "title": "Data Analyst",
         "type": "Full Time",
-        "location": "Remote - Nationwide",
-        "salary_start": "42",
-        "salary_end": "60",
-        "apply_link": "https://ai-jobs.net/job/41420-data-analyst/",
+        "location": "Glasgow, Scotland, United Kingdom - Remote",
+        "salary_start": 62,
+        "salary_end": 135,
+        "apply_link": "https://ai-jobs.net/job/43285-data-analyst/",
         "description": "",
         "tags": [
+            "Business Intelligence",
+            "Data analysis",
+            "Data warehouse",
+            "Power BI",
+            "SQL"
+        ]
+    },
+    {
+        "title": "(Senior) Data Analyst Tracking (m/w/d)",
+        "type": "Full Time",
+        "location": "Stuttgart, Germany",
+        "salary_start": 92,
+        "salary_end": 130,
+        "apply_link": "https://ai-jobs.net/job/43268-senior-data-analyst-tracking-mwd/",
+        "description": "",
+        "tags": [
+            "JavaScript",
+            "KPIs",
+            "SQL"
+        ]
+    },
+    {
+        "title": "Post-doc Research Scientist in Visual Analytics & eXplainable AI",
+        "type": "Full Time",
+        "location": "Sunnyvale, CA, United States",
+        "salary_start": 100,
+        "salary_end": 150,
+        "apply_link": "https://ai-jobs.net/job/43307-post-doc-research-scientist-in-visual-analytics-explainable-ai/",
+        "description": "",
+        "tags": [
+            "Autonomous Driving",
             "Big Data",
-            "BigQuery",
-            "Classification",
-            "Data visualization",
-            "KPIs"
+            "Circuit Design",
+            "Computer Science",
+            "Computer Vision"
         ]
     },
     {
-        "title": "Data Science Manager",
+        "title": "Junior Big Data Developer",
         "type": "Full Time",
-        "location": "Sao Paulo, Brazil",
-        "salary_start": "152",
-        "salary_end": "240",
-        "apply_link": "https://ai-jobs.net/job/41307-data-science-manager/",
+        "location": "M\u00e1laga, Spain",
+        "salary_start": 39,
+        "salary_end": 73,
+        "apply_link": "https://ai-jobs.net/job/43293-junior-big-data-developer/",
         "description": "",
         "tags": [
-            "Banking",
+            "APIs",
             "Big Data",
-            "Classification",
-            "Clustering",
-            "Computer Science"
+            "Blockchain",
+            "Docker",
+            "Elasticsearch"
         ]
     },
     {
-        "title": "Sr Machine Learning Engineer",
+        "title": "Director, Data Engineering",
         "type": "Full Time",
-        "location": "Hyderabad, India",
-        "salary_start": "131",
-        "salary_end": "201",
-        "apply_link": "https://ai-jobs.net/job/41233-sr-machine-learning-engineer/",
+        "location": "Remote, REMOTE, United States",
+        "salary_start": 116,
+        "salary_end": 210,
+        "apply_link": "https://ai-jobs.net/job/43311-director-data-engineering/",
         "description": "",
         "tags": [
-            "Machine Learning",
-            "OOP",
-            "PhD",
-            "Python",
-            "Research"
+            "Agile",
+            "APIs",
+            "Architecture",
+            "AWS",
+            "Azure"
         ]
     },
     {
-        "title": "Expert/Lead Data Scientist (f/m/x)",
+        "title": "Senior Director, Data Science",
         "type": "Full Time",
-        "location": "Berlin, Germany",
-        "salary_start": "129",
-        "salary_end": "185",
-        "apply_link": "https://ai-jobs.net/job/41304-expertlead-data-scientist-fmx/",
+        "location": "Remote, REMOTE, United States",
+        "salary_start": 133,
+        "salary_end": 241,
+        "apply_link": "https://ai-jobs.net/job/43296-senior-director-data-science/",
         "description": "",
         "tags": [
+            "Agile",
             "AWS",
             "Azure",
-            "Engineering",
-            "GCP",
-            "Google Cloud"
-        ]
-    },
-    {
-        "title": "Staff Machine Learning Engineer- Visa AI as a Service",
-        "type": "Full Time",
-        "location": "Austin, TX, United States",
-        "salary_start": "126",
-        "salary_end": "163",
-        "apply_link": "https://ai-jobs.net/job/41234-staff-machine-learning-engineer-visa-ai-as-a-service/",
-        "description": "",
-        "tags": [
-            "Agile",
-            "AI governance",
-            "Big Data",
-            "C++",
-            "Computer Science"
-        ]
-    },
-    {
-        "title": "Data Architect",
-        "type": "Full Time",
-        "location": "Lecce, Province of Lecce, Italy",
-        "salary_start": "135",
-        "salary_end": "192",
-        "apply_link": "https://ai-jobs.net/job/41190-data-architect/",
-        "description": "",
-        "tags": [
-            "Azure",
-            "Business Intelligence",
-            "Dataflow",
-            "Data governance",
-            "Data management"
-        ]
-    },
-    {
-        "title": "Staff Data Engineer- Visa AI as a Service",
-        "type": "Full Time",
-        "location": "Austin, TX, United States",
-        "salary_start": "126",
-        "salary_end": "163",
-        "apply_link": "https://ai-jobs.net/job/41249-staff-data-engineer-visa-ai-as-a-service/",
-        "description": "",
-        "tags": [
-            "Agile",
-            "Big Data",
-            "C++",
             "Computer Science",
-            "Data Mining"
-        ]
-    },
-    {
-        "title": "Lead ML Scientist",
-        "type": "Full Time",
-        "location": "Austin, TX, United States",
-        "salary_start": "81",
-        "salary_end": "152",
-        "apply_link": "https://ai-jobs.net/job/41192-lead-ml-scientist/",
-        "description": "",
-        "tags": [
-            "A/B testing",
-            "Agile",
-            "Big Data",
-            "Business Intelligence",
-            "Classification"
-        ]
-    },
-    {
-        "title": "Protocol Research Engineer (Protocol Incentivization)",
-        "type": "Full Time",
-        "location": "Remote, Worldwide",
-        "salary_start": "150",
-        "salary_end": "249",
-        "apply_link": "https://ai-jobs.net/job/41169-protocol-research-engineer-protocol-incentivization/",
-        "description": "",
-        "tags": [
-            "Blockchain",
-            "C++",
-            "Computer Science",
-            "Distributed Systems",
-            "Economics"
-        ]
-    },
-    {
-        "title": "Senior Data Science Manager \u2013 Visa Consulting & Analytics (m/f/div.)",
-        "type": "Full Time",
-        "location": "Berlin, Germany",
-        "salary_start": "144",
-        "salary_end": "240",
-        "apply_link": "https://ai-jobs.net/job/41206-senior-data-science-manager-visa-consulting-analytics-mfdiv/",
-        "description": "",
-        "tags": [
-            "Agile",
-            "Computer Science",
-            "Consulting",
-            "Consulting firm",
             "Data Analytics"
         ]
     },
     {
-        "title": "Senior Data Engineer - Cybersecurity",
-        "type": "Full Time",
-        "location": "Tempe, AZ, United States",
-        "salary_start": "115",
-        "salary_end": "180",
-        "apply_link": "https://ai-jobs.net/job/41292-senior-data-engineer-cybersecurity/",
+        "title": "Data Science & Analytics, Summer Intern",
+        "type": "Internship",
+        "location": "Springdale, AR, United States",
+        "salary_start": 40,
+        "salary_end": 40,
+        "apply_link": "https://ai-jobs.net/job/43299-data-science-analytics-summer-intern/",
         "description": "",
         "tags": [
-            "Athena",
-            "AWS",
-            "Banking",
-            "Big Data",
-            "Databricks"
-        ]
-    },
-    {
-        "title": "Payroll and HR Data Analyst",
-        "type": "Full Time",
-        "location": "Nairobi, Nairobi, Kenya",
-        "salary_start": "92",
-        "salary_end": "130",
-        "apply_link": "https://ai-jobs.net/job/41156-payroll-and-hr-data-analyst/",
-        "description": "",
-        "tags": [
-            "Computer Science",
-            "DataOps",
-            "Data Studio",
+            "Data visualization",
             "Excel",
-            "Finance"
+            "Mathematics",
+            "Statistics",
+            "STEM"
         ]
     },
     {
-        "title": "Vesalius : Computational Biologist",
+        "title": "Machine Learning Specialist",
         "type": "Full Time",
-        "location": "Cambridge, MA USA",
-        "salary_start": "56",
-        "salary_end": "105",
-        "apply_link": "https://ai-jobs.net/job/41185-vesalius-computational-biologist/",
+        "location": "Malta, ILLINOIS, United States",
+        "salary_start": 62,
+        "salary_end": 115,
+        "apply_link": "https://ai-jobs.net/job/43303-machine-learning-specialist/",
         "description": "",
         "tags": [
-            "Biology",
-            "Computer Science",
-            "Data analysis",
-            "Generative modeling",
-            "Genetics"
-        ]
-    },
-    {
-        "title": "Data DevOps Engineer",
-        "type": "Full Time",
-        "location": "London",
-        "salary_start": "62",
-        "salary_end": "115",
-        "apply_link": "https://ai-jobs.net/job/41199-data-devops-engineer/",
-        "description": "",
-        "tags": [
-            "Airflow",
-            "Ansible",
+            "Agile",
             "AWS",
-            "Blockchain",
+            "Azure",
+            "Big Data",
             "CI/CD"
         ]
     },
     {
-        "title": "Senior Data Engineer",
+        "title": "AWS Data Engineer",
+        "type": "Full Time",
+        "location": "Irving, TX, United States",
+        "salary_start": 63,
+        "salary_end": 117,
+        "apply_link": "https://ai-jobs.net/job/43312-aws-data-engineer/",
+        "description": "",
+        "tags": [
+            "Agile",
+            "Architecture",
+            "AWS",
+            "Big Data",
+            "CI/CD"
+        ]
+    },
+    {
+        "title": "Manager, BI Data Engineer",
+        "type": "Full Time",
+        "location": "Chicago, IL, United States",
+        "salary_start": 69,
+        "salary_end": 128,
+        "apply_link": "https://ai-jobs.net/job/43314-manager-bi-data-engineer/",
+        "description": "",
+        "tags": [
+            "Agile",
+            "Architecture",
+            "AWS",
+            "Business Intelligence",
+            "Data analysis"
+        ]
+    },
+    {
+        "title": "Senior Data Scientist",
+        "type": "Full Time",
+        "location": "New York City, United States",
+        "salary_start": 70,
+        "salary_end": 105,
+        "apply_link": "https://ai-jobs.net/job/43297-senior-data-scientist/",
+        "description": "",
+        "tags": [
+            "AWS",
+            "Big Data",
+            "Computer Science",
+            "Data pipelines",
+            "Distributed Systems"
+        ]
+    },
+    {
+        "title": "Data Analyst (H/F)",
+        "type": "Full Time",
+        "location": "Paris, France",
+        "salary_start": 92,
+        "salary_end": 130,
+        "apply_link": "https://ai-jobs.net/job/43292-data-analyst-hf/",
+        "description": "",
+        "tags": [
+            "Big Data",
+            "Power BI",
+            "SQL",
+            "Tableau",
+            "Vue"
+        ]
+    },
+    {
+        "title": "Data Science Engineer",
+        "type": "Full Time",
+        "location": "Austin, Texas, United States",
+        "salary_start": 69,
+        "salary_end": 128,
+        "apply_link": "https://ai-jobs.net/job/43250-data-science-engineer/",
+        "description": "",
+        "tags": [
+            "Athena",
+            "AWS",
+            "Business Intelligence",
+            "Data pipelines",
+            "Docker"
+        ]
+    },
+    {
+        "title": "Data Scientist",
+        "type": "Full Time",
+        "location": "Johannesburg, South Africa",
+        "salary_start": 39,
+        "salary_end": 100,
+        "apply_link": "https://ai-jobs.net/job/43275-data-scientist/",
+        "description": "",
+        "tags": [
+            "Airflow",
+            "Architecture",
+            "AWS",
+            "Azkaban",
+            "Big Data"
+        ]
+    },
+    {
+        "title": "Co-op, Data Scientist",
+        "type": "Full Time",
+        "location": "Remote, MA, United States",
+        "salary_start": 39,
+        "salary_end": 100,
+        "apply_link": "https://ai-jobs.net/job/43300-co-op-data-scientist/",
+        "description": "",
+        "tags": [
+            "Biology",
+            "Business Analytics",
+            "Business Intelligence",
+            "Computer Science",
+            "Data visualization"
+        ]
+    },
+    {
+        "title": "Insight Analyst",
+        "type": "Full Time",
+        "location": "Pasig City, Philippines",
+        "salary_start": 35,
+        "salary_end": 65,
+        "apply_link": "https://ai-jobs.net/job/43305-insight-analyst/",
+        "description": "",
+        "tags": [
+            "Business Intelligence",
+            "Data Analytics",
+            "Economics",
+            "Excel",
+            "Genetics"
+        ]
+    },
+    {
+        "title": "Power BI Developer",
+        "type": "Full Time",
+        "location": "Pune, India",
+        "salary_start": 55,
+        "salary_end": 102,
+        "apply_link": "https://ai-jobs.net/job/43265-power-bi-developer/",
+        "description": "",
+        "tags": [
+            "Architecture",
+            "Azure",
+            "Business Intelligence",
+            "Databricks",
+            "Engineering"
+        ]
+    },
+    {
+        "title": "Business Intelligence & Data Visualization",
+        "type": "Full Time",
+        "location": "Paris, France",
+        "salary_start": 0,
+        "salary_end": 0,
+        "apply_link": "https://ai-jobs.net/job/43264-business-intelligence-data-visualization/",
+        "description": "",
+        "tags": [
+            "Agile",
+            "Business Intelligence",
+            "Data visualization",
+            "Machine Learning",
+            "Research"
+        ]
+    },
+    {
+        "title": "Senior Data Engineer- Visa AI as a Service",
+        "type": "Full Time",
+        "location": "Austin, TX, United States",
+        "salary_start": 109,
+        "salary_end": 139,
+        "apply_link": "https://ai-jobs.net/job/43256-senior-data-engineer-visa-ai-as-a-service/",
+        "description": "",
+        "tags": [
+            "Agile",
+            "Big Data",
+            "C++",
+            "Data Mining",
+            "Distributed Systems"
+        ]
+    },
+    {
+        "title": "Data Analytics",
+        "type": "Full Time",
+        "location": "Heredia, Costa Rica",
+        "salary_start": 44,
+        "salary_end": 81,
+        "apply_link": "https://ai-jobs.net/job/43288-data-analytics/",
+        "description": "",
+        "tags": [
+            "Big Data",
+            "Data Analytics",
+            "Excel",
+            "Machine Learning",
+            "Power BI"
+        ]
+    },
+    {
+        "title": "Digital Customer - Machine Learning & Data Lab - Stage",
+        "type": "Full Time",
+        "location": "Puteaux, France",
+        "salary_start": 39,
+        "salary_end": 73,
+        "apply_link": "https://ai-jobs.net/job/43259-digital-customer-machine-learning-data-lab-stage/",
+        "description": "",
+        "tags": [
+            "Agile",
+            "AWS",
+            "Computer Vision",
+            "Deep Learning",
+            "Machine Learning"
+        ]
+    },
+    {
+        "title": "Data Management Developer Lead",
+        "type": "Full Time",
+        "location": "Remote, MD, United States",
+        "salary_start": 113,
+        "salary_end": 130,
+        "apply_link": "https://ai-jobs.net/job/43252-data-management-developer-lead/",
+        "description": "",
+        "tags": [
+            "Agile",
+            "Architecture",
+            "AWS",
+            "Azure",
+            "Big Data"
+        ]
+    },
+    {
+        "title": "Consultant Data Visualisation Tableau Software",
+        "type": "Full Time",
+        "location": "Geneva, Switzerland",
+        "salary_start": 39,
+        "salary_end": 73,
+        "apply_link": "https://ai-jobs.net/job/43306-consultant-data-visualisation-tableau-software/",
+        "description": "",
+        "tags": [
+            "Big Data",
+            "Blockchain",
+            "Python",
+            "Tableau"
+        ]
+    },
+    {
+        "title": "Data Scientist f\u00fcr datengetriebene Entwicklung in der MEMS-Sensoren (w/m/div.)",
+        "type": "Full Time",
+        "location": "Reutlingen, Germany",
+        "salary_start": 129,
+        "salary_end": 185,
+        "apply_link": "https://ai-jobs.net/job/43248-data-scientist-fur-datengetriebene-entwicklung-in-der-mems-sensoren-wmdiv/",
+        "description": "",
+        "tags": [
+            "Airflow",
+            "Hadoop",
+            "Kubernetes",
+            "Machine Learning",
+            "Matlab"
+        ]
+    },
+    {
+        "title": "Senior Data Analyst",
+        "type": "Full Time",
+        "location": "Arlington, Virginia, United States - Remote",
+        "salary_start": 62,
+        "salary_end": 135,
+        "apply_link": "https://ai-jobs.net/job/43221-senior-data-analyst/",
+        "description": "",
+        "tags": [
+            "Agile",
+            "AWS",
+            "Data analysis",
+            "Data quality",
+            "Data visualization"
+        ]
+    },
+    {
+        "title": "Senior Data Engineer (P707)",
+        "type": "Full Time",
+        "location": "Cincinnati, OH; Chicago, IL; Deerfield, IL; Portland, \u2026",
+        "salary_start": 115,
+        "salary_end": 180,
+        "apply_link": "https://ai-jobs.net/job/43233-senior-data-engineer-p707/",
+        "description": "",
+        "tags": [
+            "Agile",
+            "Architecture",
+            "Azure",
+            "Big Data",
+            "Business Analytics"
+        ]
+    },
+    {
+        "title": "Principal Technical Consultant - Data Visualization",
         "type": "Full Time",
         "location": "United States",
-        "salary_start": "135",
-        "salary_end": "202",
-        "apply_link": "https://ai-jobs.net/job/41247-senior-data-engineer/",
+        "salary_start": 69,
+        "salary_end": 128,
+        "apply_link": "https://ai-jobs.net/job/43161-principal-technical-consultant-data-visualization/",
         "description": "",
         "tags": [
+            "Agile",
+            "Architecture",
             "AWS",
-            "Banking",
-            "Big Data",
+            "Azure",
+            "CI/CD"
+        ]
+    },
+    {
+        "title": "Senior Manager Data Engineering - Houston (in office 2-3 days per week)",
+        "type": "Full Time",
+        "location": "Houston, TX, United States",
+        "salary_start": 129,
+        "salary_end": 252,
+        "apply_link": "https://ai-jobs.net/job/43236-senior-manager-data-engineering-houston-in-office-2-3-days-per-week/",
+        "description": "",
+        "tags": [
+            "Agile",
+            "Architecture",
+            "AWS",
+            "Azure",
+            "BigQuery"
+        ]
+    },
+    {
+        "title": "Data Analyst",
+        "type": "Full Time",
+        "location": "Prairie Village, KS, United States",
+        "salary_start": 42,
+        "salary_end": 64,
+        "apply_link": "https://ai-jobs.net/job/43209-data-analyst/",
+        "description": "",
+        "tags": [
             "Data governance",
-            "Data quality"
+            "Engineering",
+            "Finance",
+            "Oracle",
+            "Research"
         ]
     },
     {
-        "title": "Senior Associate, IT, Data Engineer",
+        "title": "Freelance Data Engineer",
         "type": "Full Time",
-        "location": "Dublin, Ireland",
-        "salary_start": "115",
-        "salary_end": "180",
-        "apply_link": "https://ai-jobs.net/job/41244-senior-associate-it-data-engineer/",
+        "location": "Warsaw, Masovian Voivodeship, Poland - Remote",
+        "salary_start": 73,
+        "salary_end": 120,
+        "apply_link": "https://ai-jobs.net/job/43238-freelance-data-engineer/",
         "description": "",
         "tags": [
-            "APIs",
-            "AWS",
-            "Banking",
-            "Data pipelines",
-            "ETL"
-        ]
-    },
-    {
-        "title": "Staff Machine Learning Engineer ,AI as Services",
-        "type": "Full Time",
-        "location": "Bengaluru, India",
-        "salary_start": "131",
-        "salary_end": "201",
-        "apply_link": "https://ai-jobs.net/job/41235-staff-machine-learning-engineer-ai-as-services/",
-        "description": "",
-        "tags": [
+            "A/B testing",
             "Ansible",
-            "Big Data",
-            "CI/CD",
-            "Clustering",
-            "Computer Science"
+            "Athena",
+            "AWS",
+            "CI/CD"
         ]
     },
     {
-        "title": "Sr. Data Scientist, Visa Consulting & Analytics Thailand",
+        "title": "Senior Data Engineer / Cambridge UK",
         "type": "Full Time",
-        "location": "Bangkok, Thailand",
-        "salary_start": "129",
-        "salary_end": "185",
-        "apply_link": "https://ai-jobs.net/job/41205-sr-data-scientist-visa-consulting-analytics-thailand/",
+        "location": "Cambridge, UK",
+        "salary_start": 83,
+        "salary_end": 112,
+        "apply_link": "https://ai-jobs.net/job/43231-senior-data-engineer-cambridge-uk/",
+        "description": "",
+        "tags": [
+            "Biology",
+            "CI/CD",
+            "Computer Science",
+            "Data analysis",
+            "Data management"
+        ]
+    },
+    {
+        "title": "Senior Data Engineer, Multi-Modal Data Integration",
+        "type": "Full Time",
+        "location": "San Diego, CA",
+        "salary_start": 115,
+        "salary_end": 180,
+        "apply_link": "https://ai-jobs.net/job/43150-senior-data-engineer-multi-modal-data-integration/",
+        "description": "",
+        "tags": [
+            "Biology",
+            "CI/CD",
+            "Computer Science",
+            "Data analysis",
+            "Deep Learning"
+        ]
+    },
+    {
+        "title": "STRATEGIC DATA ANALYST",
+        "type": "Full Time",
+        "location": "Makati, Makati, Philippines",
+        "salary_start": 92,
+        "salary_end": 130,
+        "apply_link": "https://ai-jobs.net/job/43216-strategic-data-analyst/",
         "description": "",
         "tags": [
             "Banking",
-            "Classification",
-            "Clustering",
+            "Computer Science",
+            "Data Analytics",
+            "Economics",
+            "Finance"
+        ]
+    },
+    {
+        "title": "Engineering Team Lead, Data Modelling",
+        "type": "Full Time",
+        "location": "Berlin, Finland",
+        "salary_start": 62,
+        "salary_end": 115,
+        "apply_link": "https://ai-jobs.net/job/43162-engineering-team-lead-data-modelling/",
+        "description": "",
+        "tags": [
+            "A/B testing",
+            "Data analysis",
+            "Data warehouse",
+            "Data Warehousing",
+            "Engineering"
+        ]
+    },
+    {
+        "title": "Data Science Consultant",
+        "type": "Full Time",
+        "location": "North America",
+        "salary_start": 122,
+        "salary_end": 139,
+        "apply_link": "https://ai-jobs.net/job/43172-data-science-consultant/",
+        "description": "",
+        "tags": [
+            "Agile",
+            "AWS",
+            "Big Data",
             "Computer Science",
             "Consulting"
         ]
     },
     {
-        "title": "Senior Decision Scientist - Travel",
+        "title": "Sr Data Engineer",
         "type": "Full Time",
-        "location": "New York City",
-        "salary_start": "69",
-        "salary_end": "128",
-        "apply_link": "https://ai-jobs.net/job/41278-senior-decision-scientist-travel/",
+        "location": "Hyderabad, India",
+        "salary_start": 115,
+        "salary_end": 180,
+        "apply_link": "https://ai-jobs.net/job/43245-sr-data-engineer/",
         "description": "",
         "tags": [
-            "Computer Science",
-            "Data analysis",
-            "Data Analytics",
-            "Data strategy",
-            "Engineering"
+            "APIs",
+            "Azure",
+            "Big Data",
+            "Business Intelligence",
+            "Consulting"
         ]
     },
     {
-        "title": "Qlik Data Architect/Administrator - RxSense",
+        "title": "Data Scientist",
         "type": "Full Time",
-        "location": "Remote, anywhere in LATAM",
-        "salary_start": "135",
-        "salary_end": "195",
-        "apply_link": "https://ai-jobs.net/job/41189-qlik-data-architectadministrator-rxsense/",
+        "location": "Paris, France",
+        "salary_start": 129,
+        "salary_end": 185,
+        "apply_link": "https://ai-jobs.net/job/43173-data-scientist/",
         "description": "",
         "tags": [
+            "GitHub",
+            "Machine Learning",
+            "PhD",
+            "Python",
+            "PyTorch"
+        ]
+    },
+    {
+        "title": "Master Data Management Product Analyst",
+        "type": "Full Time",
+        "location": "Hyderabad, India",
+        "salary_start": 55,
+        "salary_end": 102,
+        "apply_link": "https://ai-jobs.net/job/43192-master-data-management-product-analyst/",
+        "description": "",
+        "tags": [
+            "Data management",
+            "Data quality",
+            "Excel",
+            "Oracle",
+            "Research"
+        ]
+    },
+    {
+        "title": "Data Engineer (Melbourne & Sydney)",
+        "type": "Full Time",
+        "location": "Malvern East, Australia",
+        "salary_start": 115,
+        "salary_end": 180,
+        "apply_link": "https://ai-jobs.net/job/43228-data-engineer-melbourne-sydney/",
+        "description": "",
+        "tags": [
+            "Agile",
+            "Ansible",
+            "Architecture",
+            "Avro",
+            "AWS"
+        ]
+    },
+    {
+        "title": "Lead Analytics Engineer",
+        "type": "Full Time",
+        "location": "Warsaw, Masovian Voivodeship, Poland - Remote",
+        "salary_start": 45,
+        "salary_end": 85,
+        "apply_link": "https://ai-jobs.net/job/43180-lead-analytics-engineer/",
+        "description": "",
+        "tags": [
+            "Agile",
+            "APIs",
+            "Business Intelligence",
+            "Data governance",
+            "Data pipelines"
+        ]
+    },
+    {
+        "title": "Data Quality Analyst",
+        "type": "Full Time",
+        "location": "Paris, \u00cele-de-France, France",
+        "salary_start": 39,
+        "salary_end": 73,
+        "apply_link": "https://ai-jobs.net/job/43166-data-quality-analyst/",
+        "description": "",
+        "tags": [
+            "Consulting",
+            "Data management",
+            "Data quality",
+            "Power BI",
+            "Python"
+        ]
+    },
+    {
+        "title": "Data Engineer",
+        "type": "Full Time",
+        "location": "United States, Aliso Viejo, CA",
+        "salary_start": 115,
+        "salary_end": 180,
+        "apply_link": "https://ai-jobs.net/job/43230-data-engineer/",
+        "description": "",
+        "tags": [
+            "APIs",
             "AWS",
             "Big Data",
+            "Data Analytics",
+            "Data pipelines"
+        ]
+    },
+    {
+        "title": "Junior Data Management Specialist",
+        "type": "Full Time",
+        "location": "Brussels, Belgium",
+        "salary_start": 39,
+        "salary_end": 73,
+        "apply_link": "https://ai-jobs.net/job/43191-junior-data-management-specialist/",
+        "description": "",
+        "tags": [
+            "Business Intelligence",
+            "Data analysis",
+            "Data management",
             "Data quality",
-            "Data warehouse",
             "Excel"
         ]
     },
     {
-        "title": "Senior Data Engineer (ETL/Power BI/SQL)",
+        "title": "Artificial Intelligence (AI) Expert",
         "type": "Full Time",
-        "location": "Bengaluru, India",
-        "salary_start": "115",
-        "salary_end": "180",
-        "apply_link": "https://ai-jobs.net/job/41300-senior-data-engineer-etlpower-bisql/",
+        "location": "Ispra, Province of Varese, Italy - Remote",
+        "salary_start": 45,
+        "salary_end": 85,
+        "apply_link": "https://ai-jobs.net/job/43159-artificial-intelligence-ai-expert/",
         "description": "",
         "tags": [
-            "Agile",
-            "Azure",
+            "APIs",
+            "Architecture",
             "CI/CD",
+            "DevOps",
+            "Git"
+        ]
+    },
+    {
+        "title": "Senior Perception Engineer, Safety-Critical Algorithms",
+        "type": "Full Time",
+        "location": "Remote - Netherlands (EU)",
+        "salary_start": 56,
+        "salary_end": 104,
+        "apply_link": "https://ai-jobs.net/job/43157-senior-perception-engineer-safety-critical-algorithms/",
+        "description": "",
+        "tags": [
             "Computer Science",
-            "Data analysis"
-        ]
-    },
-    {
-        "title": "Big Data Engineer",
-        "type": "Full Time",
-        "location": "Tel Aviv, Israel",
-        "salary_start": "30",
-        "salary_end": "60",
-        "apply_link": "https://ai-jobs.net/job/41175-big-data-engineer/",
-        "description": "",
-        "tags": [
-            "Airflow",
-            "AWS",
-            "Azure",
-            "Big Data",
-            "Computer Science"
-        ]
-    },
-    {
-        "title": "Adaptive Data Operations Specialist",
-        "type": "Full Time",
-        "location": "San Francisco, CA or Remote",
-        "salary_start": "93",
-        "salary_end": "117",
-        "apply_link": "https://ai-jobs.net/job/41151-adaptive-data-operations-specialist/",
-        "description": "",
-        "tags": [
-            "CX",
-            "Data analysis",
-            "DataOps",
             "Engineering",
-            "Git"
+            "Git",
+            "Lidar",
+            "Linux"
         ]
     },
     {
-        "title": "Staff Data Engineer - Test Automation(QA)",
+        "title": "BI Developer",
         "type": "Full Time",
-        "location": "Bengaluru, India",
-        "salary_start": "115",
-        "salary_end": "180",
-        "apply_link": "https://ai-jobs.net/job/41258-staff-data-engineer-test-automationqa/",
+        "location": "Tel Aviv",
+        "salary_start": 55,
+        "salary_end": 102,
+        "apply_link": "https://ai-jobs.net/job/43193-bi-developer/",
         "description": "",
         "tags": [
-            "Agile",
-            "APIs",
-            "Big Data",
-            "Business Intelligence",
-            "Computer Science"
-        ]
-    },
-    {
-        "title": "Data Science Intern",
-        "type": "Internship",
-        "location": "United States",
-        "salary_start": "50",
-        "salary_end": "50",
-        "apply_link": "https://ai-jobs.net/job/41212-data-science-intern/",
-        "description": "",
-        "tags": [
-            "A/B testing",
-            "Data analysis",
-            "EDA",
-            "Engineering",
-            "Git"
-        ]
-    },
-    {
-        "title": "Senior Platform Data Engineer, People Analytics",
-        "type": "Full Time",
-        "location": "Toronto or Vancouver, Canada, United States",
-        "salary_start": "115",
-        "salary_end": "180",
-        "apply_link": "https://ai-jobs.net/job/41291-senior-platform-data-engineer-people-analytics/",
-        "description": "",
-        "tags": [
-            "APIs",
-            "AWS",
-            "Banking",
-            "Blockchain",
-            "Crypto"
-        ]
-    },
-    {
-        "title": "Senior Data Scientist",
-        "type": "Full Time",
-        "location": "Costa Mesa, CA, United States",
-        "salary_start": "129",
-        "salary_end": "185",
-        "apply_link": "https://ai-jobs.net/job/41306-senior-data-scientist/",
-        "description": "",
-        "tags": [
-            "Credit risk",
-            "Data pipelines",
+            "E-commerce",
             "Engineering",
             "ETL",
-            "Machine Learning"
+            "Finance",
+            "Industrial"
         ]
     },
     {
-        "title": "Staff Data Engineer - Development(Hadoop, Spark, Hive)",
+        "title": "Senior Data Engineer - AdTech (All Genders)",
         "type": "Full Time",
-        "location": "Bengaluru, India",
-        "salary_start": "115",
-        "salary_end": "180",
-        "apply_link": "https://ai-jobs.net/job/41257-staff-data-engineer-developmenthadoop-spark-hive/",
-        "description": "",
-        "tags": [
-            "Agile",
-            "API Development",
-            "APIs",
-            "Computer Science",
-            "Data governance"
-        ]
-    },
-    {
-        "title": "Analytics Engineer",
-        "type": "Full Time",
-        "location": "Lyon, Auvergne-Rh\u00f4ne-Alpes, France",
-        "salary_start": "48",
-        "salary_end": "48",
-        "apply_link": "https://ai-jobs.net/job/41180-analytics-engineer/",
-        "description": "",
-        "tags": [
-            "BigQuery",
-            "CI/CD",
-            "Git",
-            "SQL",
-            "Tableau"
-        ]
-    },
-    {
-        "title": "Machine Learning Engineer",
-        "type": "Full Time",
-        "location": "London, England, United Kingdom - Remote",
-        "salary_start": "80",
-        "salary_end": "129",
-        "apply_link": "https://ai-jobs.net/job/41238-machine-learning-engineer/",
-        "description": "",
-        "tags": [
-            "Computer Science",
-            "Computer Vision",
-            "Deep Learning",
-            "Engineering",
-            "Machine Learning"
-        ]
-    },
-    {
-        "title": "Sr. Data Engineer - Java Developer",
-        "type": "Full Time",
-        "location": "Bengaluru, India",
-        "salary_start": "115",
-        "salary_end": "180",
-        "apply_link": "https://ai-jobs.net/job/41253-sr-data-engineer-java-developer/",
-        "description": "",
-        "tags": [
-            "Agile",
-            "Angular",
-            "APIs",
-            "Big Data",
-            "Computer Science"
-        ]
-    },
-    {
-        "title": "Senior Data Engineer",
-        "type": "Full Time",
-        "location": "New York City",
-        "salary_start": "87",
-        "salary_end": "167",
-        "apply_link": "https://ai-jobs.net/job/41268-senior-data-engineer/",
-        "description": "",
-        "tags": [
-            "APIs",
-            "AWS",
-            "CI/CD",
-            "Computer Science",
-            "Data Analytics"
-        ]
-    },
-    {
-        "title": "Director of Data Science (f/m/x)",
-        "type": "Full Time",
-        "location": "Berlin, Germany",
-        "salary_start": "141",
-        "salary_end": "192",
-        "apply_link": "https://ai-jobs.net/job/41305-director-of-data-science-fmx/",
-        "description": "",
-        "tags": [
-            "AWS",
-            "Engineering",
-            "Machine Learning",
-            "ML models",
-            "MLOps"
-        ]
-    },
-    {
-        "title": "Enterprise Data Modeler",
-        "type": "Full Time",
-        "location": "Columbus, Georgia, United States",
-        "salary_start": "56",
-        "salary_end": "105",
-        "apply_link": "https://ai-jobs.net/job/41193-enterprise-data-modeler/",
-        "description": "",
-        "tags": [
-            "Agile",
-            "Computer Science",
-            "Data analysis",
-            "Data Analytics",
-            "Data quality"
-        ]
-    },
-    {
-        "title": "Data Analyst - Internship (H/F)",
-        "type": "Internship",
         "location": "Paris, France",
-        "salary_start": 0,
-        "salary_end": 0,
-        "apply_link": "https://ai-jobs.net/job/41295-data-analyst-internship-hf/",
-        "description": "",
-        "tags": [
-            "Power BI"
-        ]
-    },
-    {
-        "title": "Staff Data Engineer - Full Stack",
-        "type": "Full Time",
-        "location": "Bengaluru, India",
-        "salary_start": "115",
-        "salary_end": "180",
-        "apply_link": "https://ai-jobs.net/job/41254-staff-data-engineer-full-stack/",
-        "description": "",
-        "tags": [
-            "Agile",
-            "Angular",
-            "APIs",
-            "Big Data",
-            "Computer Science"
-        ]
-    },
-    {
-        "title": "Senior Data Scientist",
-        "type": "Full Time",
-        "location": "Lecce, Province of Lecce, Italy",
-        "salary_start": "56",
-        "salary_end": "120",
-        "apply_link": "https://ai-jobs.net/job/41228-senior-data-scientist/",
+        "salary_start": 61,
+        "salary_end": 135,
+        "apply_link": "https://ai-jobs.net/job/43278-senior-data-engineer-adtech-all-genders/",
         "description": "",
         "tags": [
             "Airflow",
@@ -1294,284 +1156,428 @@
         ]
     },
     {
-        "title": "Senior Data Engineer (Scala, Spark, Hadoop)",
+        "title": "Data Management & Data Analytics Specialist (m/w/d)",
         "type": "Full Time",
-        "location": "Bengaluru, India",
-        "salary_start": "115",
-        "salary_end": "180",
-        "apply_link": "https://ai-jobs.net/job/41251-senior-data-engineer-scala-spark-hadoop/",
+        "location": "Stuttgart, Germany",
+        "salary_start": 39,
+        "salary_end": 73,
+        "apply_link": "https://ai-jobs.net/job/43189-data-management-data-analytics-specialist-mwd/",
+        "description": "",
+        "tags": [
+            "Big Data",
+            "Business Analytics",
+            "Data Analytics",
+            "Data management",
+            "Engineering"
+        ]
+    },
+    {
+        "title": "Data Management Architect",
+        "type": "Full Time",
+        "location": "Rosedale, MD, United States",
+        "salary_start": 113,
+        "salary_end": 130,
+        "apply_link": "https://ai-jobs.net/job/43253-data-management-architect/",
+        "description": "",
+        "tags": [
+            "Architecture",
+            "Consulting",
+            "Data management",
+            "Data warehouse",
+            "DB2"
+        ]
+    },
+    {
+        "title": "Machine Learning Engineer (StarX)",
+        "type": "Full Time",
+        "location": "Los Angeles, California, United States, New York, \u2026",
+        "salary_start": 150,
+        "salary_end": 250,
+        "apply_link": "https://ai-jobs.net/job/43260-machine-learning-engineer-starx/",
+        "description": "",
+        "tags": [
+            "Big Data",
+            "Data visualization",
+            "Engineering",
+            "Feature engineering",
+            "Finance"
+        ]
+    },
+    {
+        "title": "Staff Software Engineer, Data & Connectivity",
+        "type": "Full Time",
+        "location": "Reno, NV",
+        "salary_start": 160,
+        "salary_end": 180,
+        "apply_link": "https://ai-jobs.net/job/43182-staff-software-engineer-data-connectivity/",
         "description": "",
         "tags": [
             "Agile",
-            "Angular",
-            "API Development",
             "APIs",
-            "Computer Science"
-        ]
-    },
-    {
-        "title": "Analyst - Data Science",
-        "type": "Full Time",
-        "location": "Mumbai, India",
-        "salary_start": "50",
-        "salary_end": "93",
-        "apply_link": "https://ai-jobs.net/job/41210-analyst-data-science/",
-        "description": "",
-        "tags": [
-            "Blockchain",
+            "AWS",
             "Computer Science",
-            "Docker",
-            "Kubernetes",
-            "Linux"
+            "Data pipelines"
         ]
     },
     {
-        "title": "Senior Fraud Data Analyst",
+        "title": "DB/ETL Developer",
         "type": "Full Time",
-        "location": "SG - Singapore",
-        "salary_start": "92",
-        "salary_end": "130",
-        "apply_link": "https://ai-jobs.net/job/41161-senior-fraud-data-analyst/",
-        "description": "",
-        "tags": [
-            "Banking",
-            "Credit risk",
-            "Economics",
-            "Finance",
-            "FinTech"
-        ]
-    },
-    {
-        "title": "Manager, BI Data Engineer",
-        "type": "Full Time",
-        "location": "Chicago, IL, United States",
-        "salary_start": "69",
-        "salary_end": "128",
-        "apply_link": "https://ai-jobs.net/job/41248-manager-bi-data-engineer/",
+        "location": "THane, India",
+        "salary_start": 63,
+        "salary_end": 250,
+        "apply_link": "https://ai-jobs.net/job/43263-dbetl-developer/",
         "description": "",
         "tags": [
             "Agile",
             "AWS",
-            "Business Intelligence",
-            "Data analysis",
-            "Data visualization"
-        ]
-    },
-    {
-        "title": "Head of Economics and Data Science",
-        "type": "Full Time",
-        "location": "Milpitas, CA, United States",
-        "salary_start": "81",
-        "salary_end": "152",
-        "apply_link": "https://ai-jobs.net/job/41213-head-of-economics-and-data-science/",
-        "description": "",
-        "tags": [
-            "Economics",
-            "Engineering",
-            "Finance",
-            "Industrial",
-            "Machine Learning"
+            "Azure",
+            "BigQuery",
+            "Computer Science"
         ]
     },
     {
         "title": "Data Analyst",
         "type": "Full Time",
-        "location": "Aix-En-Provence, France",
-        "salary_start": "92",
-        "salary_end": "130",
-        "apply_link": "https://ai-jobs.net/job/41160-data-analyst/",
+        "location": "Kyiv, Ukraine",
+        "salary_start": 92,
+        "salary_end": 130,
+        "apply_link": "https://ai-jobs.net/job/43270-data-analyst/",
         "description": "",
         "tags": [
-            "SAS"
+            "Research"
         ]
     },
     {
-        "title": "Senior Specialist Data Engineering",
+        "title": "Senior Machine Learning Engineer",
         "type": "Full Time",
-        "location": "London, United Kingdom",
-        "salary_start": "115",
-        "salary_end": "180",
-        "apply_link": "https://ai-jobs.net/job/41262-senior-specialist-data-engineering/",
+        "location": "Cambridge, UK",
+        "salary_start": 83,
+        "salary_end": 161,
+        "apply_link": "https://ai-jobs.net/job/43199-senior-machine-learning-engineer/",
         "description": "",
         "tags": [
-            "Airflow",
-            "Athena",
+            "Bayesian",
+            "Biology",
+            "Computer Science",
+            "Computer Vision",
+            "Deep Learning"
+        ]
+    },
+    {
+        "title": "Data Engineer",
+        "type": "Full Time",
+        "location": "Remote job",
+        "salary_start": 115,
+        "salary_end": 180,
+        "apply_link": "https://ai-jobs.net/job/43235-data-engineer/",
+        "description": "",
+        "tags": [
+            "Agile",
             "AWS",
             "Azure",
-            "Big Data"
+            "Big Data",
+            "Consulting"
         ]
     },
     {
-        "title": "Soccer Live Data Operator",
+        "title": "Mid-Level Data Scientist (US-030223)",
         "type": "Full Time",
-        "location": "Oldsmar, FL",
-        "salary_start": "31",
-        "salary_end": "31",
-        "apply_link": "https://ai-jobs.net/job/41153-soccer-live-data-operator/",
+        "location": "Washington, DC",
+        "salary_start": 56,
+        "salary_end": 120,
+        "apply_link": "https://ai-jobs.net/job/43175-mid-level-data-scientist-us-030223/",
         "description": "",
         "tags": [
-            "Genetics",
-            "Streaming"
+            "Computer Science",
+            "Data analysis",
+            "Data Analytics",
+            "Data Mining",
+            "Data visualization"
         ]
     },
     {
-        "title": "Senior Consultant Data Engineering",
+        "title": "Data Scientist (Python/ML)",
         "type": "Full Time",
-        "location": "Bengaluru, India",
-        "salary_start": "115",
-        "salary_end": "180",
-        "apply_link": "https://ai-jobs.net/job/41256-senior-consultant-data-engineering/",
+        "location": "Krak\u00f3w",
+        "salary_start": 129,
+        "salary_end": 185,
+        "apply_link": "https://ai-jobs.net/job/43163-data-scientist-pythonml/",
         "description": "",
         "tags": [
             "Agile",
-            "APIs",
-            "CI/CD",
-            "Computer Science",
-            "Docker"
+            "AWS",
+            "Azure",
+            "Big Data",
+            "BigQuery"
         ]
     },
     {
-        "title": "Risk Data Specialist- Systems and Data",
+        "title": "Data Analytics Consultant",
         "type": "Full Time",
-        "location": "Centurion, South Africa",
-        "salary_start": "70",
-        "salary_end": "148",
-        "apply_link": "https://ai-jobs.net/job/41282-risk-data-specialist-systems-and-data/",
+        "location": "Addis Ababa, Ethiopia",
+        "salary_start": 48,
+        "salary_end": 90,
+        "apply_link": "https://ai-jobs.net/job/43269-data-analytics-consultant/",
         "description": "",
         "tags": [
-            "Computer Science",
+            "Consulting",
+            "Data Analytics",
+            "Excel",
+            "Power BI",
+            "Privacy"
+        ]
+    },
+    {
+        "title": "Data Analyst Intern - Singapore",
+        "type": "Internship",
+        "location": "Singapore, Central Singapore, Singapore",
+        "salary_start": 0,
+        "salary_end": 0,
+        "apply_link": "https://ai-jobs.net/job/43217-data-analyst-intern-singapore/",
+        "description": "",
+        "tags": [
+            "Data analysis",
+            "GCP",
+            "Google Cloud",
+            "Machine Learning",
+            "ML models"
+        ]
+    },
+    {
+        "title": "Data Analyst Intern",
+        "type": "Internship",
+        "location": "Bangkok, Bangkok, Thailand - Remote",
+        "salary_start": 0,
+        "salary_end": 0,
+        "apply_link": "https://ai-jobs.net/job/43206-data-analyst-intern/",
+        "description": "",
+        "tags": [
+            "Business Intelligence",
+            "Data Analytics",
             "Data visualization",
             "Data warehouse",
-            "Engineering",
-            "Excel"
-        ]
-    },
-    {
-        "title": "Manager, Adaptive Data Operations",
-        "type": "Full Time",
-        "location": "San Francisco, CA or Remote (US only)",
-        "salary_start": "134",
-        "salary_end": "168",
-        "apply_link": "https://ai-jobs.net/job/41152-manager-adaptive-data-operations/",
-        "description": "",
-        "tags": [
-            "CX",
-            "Data analysis",
-            "DataOps",
-            "Engineering",
-            "Excel"
-        ]
-    },
-    {
-        "title": "Sr. Data Engineer - Test Automation(QA)",
-        "type": "Full Time",
-        "location": "Bengaluru, India",
-        "salary_start": "115",
-        "salary_end": "180",
-        "apply_link": "https://ai-jobs.net/job/41259-sr-data-engineer-test-automationqa/",
-        "description": "",
-        "tags": [
-            "Agile",
-            "APIs",
-            "Big Data",
-            "Business Intelligence",
-            "Computer Science"
-        ]
-    },
-    {
-        "title": "Senior Data Engineer",
-        "type": "Full Time",
-        "location": "Canada",
-        "salary_start": "115",
-        "salary_end": "180",
-        "apply_link": "https://ai-jobs.net/job/41269-senior-data-engineer/",
-        "description": "",
-        "tags": [
-            "AWS",
-            "Banking",
-            "C++",
-            "Consulting",
             "Finance"
         ]
     },
     {
-        "title": "Senior ETL QA Automation Engineer",
+        "title": "Cloud Data Engineer (H/F)",
         "type": "Full Time",
-        "location": "Remote",
-        "salary_start": "100",
-        "salary_end": "100",
-        "apply_link": "https://ai-jobs.net/job/41176-senior-etl-qa-automation-engineer/",
+        "location": "Wasquehal, France",
+        "salary_start": 39,
+        "salary_end": 73,
+        "apply_link": "https://ai-jobs.net/job/43160-cloud-data-engineer-hf/",
         "description": "",
         "tags": [
+            "Agile",
+            "Azure",
             "Big Data",
+            "Data management",
+            "DataOps"
+        ]
+    },
+    {
+        "title": "Senior Manager / Director of Global Data Analytics",
+        "type": "Full Time",
+        "location": "Redwood City, California, United States",
+        "salary_start": 214,
+        "salary_end": 373,
+        "apply_link": "https://ai-jobs.net/job/43208-senior-manager-director-of-global-data-analytics/",
+        "description": "",
+        "tags": [
+            "Data Analytics",
+            "Data visualization",
+            "Engineering",
+            "GCP",
+            "Google Cloud"
+        ]
+    },
+    {
+        "title": "Research Engineer, Path/Motion Planning",
+        "type": "Full Time",
+        "location": "Vancouver, BC",
+        "salary_start": 150,
+        "salary_end": 249,
+        "apply_link": "https://ai-jobs.net/job/43195-research-engineer-pathmotion-planning/",
+        "description": "",
+        "tags": [
+            "Computer Science",
+            "Engineering",
+            "GitLab",
+            "Jira",
+            "PhD"
+        ]
+    },
+    {
+        "title": "Principal Engineer, Data Security",
+        "type": "Full Time",
+        "location": "Toronto, Ontario, Canada",
+        "salary_start": 62,
+        "salary_end": 115,
+        "apply_link": "https://ai-jobs.net/job/43183-principal-engineer-data-security/",
+        "description": "",
+        "tags": [
+            "Architecture",
+            "AWS",
+            "Azure",
+            "Biology",
+            "Chemistry"
+        ]
+    },
+    {
+        "title": "VP, Technology- Data Engineering",
+        "type": "Full Time",
+        "location": "Chennai, India",
+        "salary_start": 200,
+        "salary_end": 297,
+        "apply_link": "https://ai-jobs.net/job/43232-vp-technology-data-engineering/",
+        "description": "",
+        "tags": [
+            "Agile",
+            "Architecture",
+            "Azure",
+            "Big Data",
+            "Business Intelligence"
+        ]
+    },
+    {
+        "title": "Data Scientist - New College Graduate",
+        "type": "Full Time",
+        "location": "Bi\u00f1an, Philippines",
+        "salary_start": 39,
+        "salary_end": 100,
+        "apply_link": "https://ai-jobs.net/job/43249-data-scientist-new-college-graduate/",
+        "description": "",
+        "tags": [
+            "APIs",
+            "Clustering",
+            "Computer Science",
+            "Data visualization",
+            "Deep Learning"
+        ]
+    },
+    {
+        "title": "DDO \u2013 Data Management - Senior Financial Quality Management Analyst",
+        "type": "Full Time",
+        "location": "Porto, Portugal",
+        "salary_start": 62,
+        "salary_end": 115,
+        "apply_link": "https://ai-jobs.net/job/43190-ddo-data-management-senior-financial-quality-management-analyst/",
+        "description": "",
+        "tags": [
+            "Banking",
+            "Data governance",
+            "Data management",
             "Data quality",
-            "ETL",
-            "Mathematics",
+            "Finance"
+        ]
+    },
+    {
+        "title": "Master Data Specialist",
+        "type": "Full Time",
+        "location": "Oslo, Norway",
+        "salary_start": 70,
+        "salary_end": 148,
+        "apply_link": "https://ai-jobs.net/job/43272-master-data-specialist/",
+        "description": "",
+        "tags": [
+            "Data quality",
+            "Security"
+        ]
+    },
+    {
+        "title": "Data Analyst",
+        "type": "Full Time",
+        "location": "Spring, Texas, United States",
+        "salary_start": 62,
+        "salary_end": 135,
+        "apply_link": "https://ai-jobs.net/job/43220-data-analyst/",
+        "description": "",
+        "tags": [
+            "Data Analytics",
+            "KPIs",
+            "Oracle",
+            "Power BI",
+            "SQL"
+        ]
+    },
+    {
+        "title": "Data Engineer, Analytics (m/f/x)",
+        "type": "Full Time",
+        "location": "Wien, Austria",
+        "salary_start": 45,
+        "salary_end": 45,
+        "apply_link": "https://ai-jobs.net/job/43277-data-engineer-analytics-mfx/",
+        "description": "",
+        "tags": [
+            "Agile",
+            "Architecture",
+            "CI/CD",
+            "Machine Learning",
             "Python"
         ]
     },
     {
-        "title": "Data Scientist",
+        "title": "Senior/Mid Machine Learning Engineer",
         "type": "Full Time",
-        "location": "Brussels, Belgium",
-        "salary_start": "129",
-        "salary_end": "185",
-        "apply_link": "https://ai-jobs.net/job/41223-data-scientist/",
+        "location": "Athens, Attica, Greece",
+        "salary_start": 80,
+        "salary_end": 129,
+        "apply_link": "https://ai-jobs.net/job/43205-seniormid-machine-learning-engineer/",
         "description": "",
         "tags": [
-            "Agile",
-            "Airflow",
-            "Angular",
+            "Architecture",
+            "ASR",
             "AWS",
-            "Azure"
+            "Big Data",
+            "BigQuery"
         ]
     },
     {
-        "title": "Remote - Senior Data Engineer - Machine Learning",
+        "title": "ETL Developer",
         "type": "Full Time",
-        "location": "Columbus, Georgia, United States",
-        "salary_start": "73",
-        "salary_end": "120",
-        "apply_link": "https://ai-jobs.net/job/41237-remote-senior-data-engineer-machine-learning/",
+        "location": "Woodbridge Township, NJ, United States",
+        "salary_start": 63,
+        "salary_end": 250,
+        "apply_link": "https://ai-jobs.net/job/43152-etl-developer/",
         "description": "",
         "tags": [
-            "APIs",
             "Azure",
-            "Data analysis",
-            "Databricks",
-            "Data management"
+            "Banking",
+            "Big Data",
+            "Computer Science",
+            "Data warehouse"
         ]
     },
     {
-        "title": "Staff Data Engineer (m/f/d)",
+        "title": "Data Engineer",
         "type": "Full Time",
-        "location": "Lisbon, Portugal",
-        "salary_start": "115",
-        "salary_end": "180",
-        "apply_link": "https://ai-jobs.net/job/41299-staff-data-engineer-mfd/",
+        "location": "Ljubljana, Ljubljana, Slovenia - Remote",
+        "salary_start": 45,
+        "salary_end": 70,
+        "apply_link": "https://ai-jobs.net/job/43241-data-engineer/",
         "description": "",
         "tags": [
-            "AWS",
+            "CI/CD",
             "Databricks",
-            "Data management",
-            "Data pipelines",
+            "Data quality",
+            "Data warehouse",
             "Engineering"
         ]
     },
     {
-        "title": "Scientist, Computational Biology -ML/AI",
-        "type": "Full Time",
-        "location": "Cambridge, MA USA",
-        "salary_start": "69",
-        "salary_end": "128",
-        "apply_link": "https://ai-jobs.net/job/41184-scientist-computational-biology-mlai/",
+        "title": "Machine Learning/Artificial Intelligence Intern",
+        "type": "Internship",
+        "location": "Palo Alto, CA, United States",
+        "salary_start": 54,
+        "salary_end": 80,
+        "apply_link": "https://ai-jobs.net/job/43187-machine-learningartificial-intelligence-intern/",
         "description": "",
         "tags": [
-            "AWS",
             "Biology",
-            "Causal inference",
-            "Data management",
-            "Deep Learning"
+            "Computer Science",
+            "HPC",
+            "Linux",
+            "Machine Learning"
         ]
     }
 ]
